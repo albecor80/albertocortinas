@@ -16,6 +16,5 @@ export async function load() {
     id: folder,
     title: `Article ${folder}`
   }));
-  console.log('articles:', articles);
   return { articles };  // Ensure this is returned properly
 }

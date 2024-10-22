@@ -6,8 +6,8 @@
     ];
     </script>
 <section class="container w-10/12 mx-auto">
-    <h1 class="text-2xl font-bold mb-6 text-center">Articles</h1>
-  
+    <h1 class=" text-center">My writings</h1>
+    <p class="pb-6 text-center text-gray-500 mt-2 ">A collection of articles I've been writing as I am learning about data and visualization</p>
     <!-- 3-column grid with fixed gap -->
     <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4 justify-items-center">
       {#each articles as article}

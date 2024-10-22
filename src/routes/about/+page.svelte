@@ -1,4 +1,5 @@
 <div class="mx-auto max-w-xl text-public text-lg">
+    <h1 class=" text-center">About me</h1>
     <p class="mt-4">
         I am Alberto Cortinas, a data scientist and industrial engineer based in Barcelona.
     </p>

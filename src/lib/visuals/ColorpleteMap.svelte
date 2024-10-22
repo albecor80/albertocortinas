@@ -27,10 +27,9 @@
             updateDimensions(); // Initial dimensions
 
             // Fetch the GeoJSON data
-            const response = await fetch('/src/lib/data/europe.geojson');
+            const response = await fetch('/data/europe.geojson');
             const geojson = await response.json();
 
-            console.log('Fetched GeoJSON:', geojson); // Log GeoJSON structure for inspection
 
             // Projection to transform geo-coordinates into 2D plane
             const projection = d3.geoMercator()
