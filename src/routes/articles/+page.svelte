@@ -2,7 +2,9 @@
     import Card from "$lib/components/Card.svelte";
     const articles = [
         { id: 1, title: 'Bad practices in data visualization', img: 'bad_visual_front.jpg' },
-        { id: 2, title: 'Good practices in data visualization', img: 'good_practice_front.jpg' },
+        { id: 2, title: 'Visualizing The Lord of the Rings Characters', img: 'dendrogram.png' },
+        { id: 3, title: 'A Life Timeline: Major Milestones and Time Allocation', img: 'timeline.png' },
+        { id: 4, title: 'Mapping Bar Density in Badalona with a Contour Plot', img: 'contour.png' },
     ];
     </script>
 <section class="container w-10/12 mx-auto">
@@ -19,3 +21,4 @@
     </ul>
   </section>
   
+

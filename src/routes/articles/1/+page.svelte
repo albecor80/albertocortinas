@@ -7,7 +7,7 @@
     let summary = "Criticism of a data visualization proposal that could be improved"
 </script>
 
-<div class="flex flex-col h-full w-2/3 mx-auto mt-16">
+<div class="flex flex-col h-full w-2/3 mx-auto mt-8">
     <h1>
         {title}
     </h1>

@@ -1,0 +1,121 @@
+{
+    "name": "Arda",
+    "children": [
+        {
+        "name": "Valar",
+        "children": [
+            { "name": "Manwë", "value": 80 },
+            { "name": "Varda", "value": 75 },
+            { "name": "Ulmo", "value": 70 },
+            { "name": "Aulë", "value": 65 },
+            { "name": "Yavanna", "value": 60 },
+            { "name": "Námo (Mandos)", "value": 55 },
+            { "name": "Nienna", "value": 50 },
+            { "name": "Oromë", "value": 50 },
+            { "name": "Vána", "value": 40 },
+            { "name": "Irmo (Lórien)", "value": 35 },
+            { "name": "Estë", "value": 30 },
+            { "name": "Tulkas", "value": 45 },
+            { "name": "Nessa", "value": 25 }
+        ]
+        },
+        {
+        "name": "Maiar",
+        "children": [
+            { "name": "Gandalf", "value": 70 },
+            { "name": "Saruman", "value": 50 },
+            { "name": "Radagast", "value": 10 },
+            { "name": "Melian", "value": 40 },
+            { "name": "Eönwë", "value": 45 },
+            { "name": "Osse", "value": 35 },
+            { "name": "Uinen", "value": 30 }
+        ]
+        },
+        {
+        "name": "Elfos",
+        "children": [
+            { "name": "Fëanor", "value": 20 },
+            { "name": "Galadriel", "value": 50 },
+            { "name": "Thingol", "value": 30 },
+            { "name": "Lúthien", "value": 40 },
+            { "name": "Legolas", "value": 35 },
+            { "name": "Glorfindel", "value": 25 },
+            { "name": "Finrod", "value": 35 },
+            { "name": "Turgon", "value": 30 },
+            { "name": "Maedhros", "value": 28 },
+            { "name": "Celebrimbor", "value": 22 }
+        ]
+        },
+        {
+        "name": "Humanos",
+        "children": [
+            { "name": "Aragorn", "value": 60 },
+            { "name": "Beren", "value": 35 },
+            { "name": "Isildur", "value": 25 },
+            { "name": "Faramir", "value": 20 },
+            { "name": "Boromir", "value": 18 },
+            { "name": "Éowyn", "value": 15 },
+            { "name": "Tuor", "value": 22 },
+            { "name": "Húrin", "value": 20 }
+        ]
+        },
+        {
+        "name": "Enanos",
+        "children": [
+            { "name": "Thorin", "value": 30 },
+            { "name": "Gimli", "value": 25 },
+            { "name": "Dáin II", "value": 18 },
+            { "name": "Balin", "value": 10 },
+            { "name": "Glóin", "value": 15 },
+            { "name": "Dís", "value": 8 }
+        ]
+        },
+        {
+        "name": "Hobbits",
+        "children": [
+            { "name": "Frodo", "value": 60 },
+            { "name": "Bilbo", "value": 55 },
+            { "name": "Sam", "value": 50 },
+            { "name": "Merry", "value": 20 },
+            { "name": "Pippin", "value": 18 },
+            { "name": "Lobelia", "value": 5 }
+        ]
+        },
+        {
+        "name": "Orcos",
+        "children": [
+            { "name": "Azog", "value": 10 },
+            { "name": "Bolg", "value": 12 },
+            { "name": "Gothmog", "value": 20 }
+        ]
+        },
+        {
+        "name": "Dragones",
+        "children": [
+            { "name": "Glaurung", "value": 20 },
+            { "name": "Ancalagon", "value": 15 },
+            { "name": "Smaug", "value": 25 }
+        ]
+        },
+        {
+        "name": "Ainur",
+        "children": [
+            { "name": "Morgoth", "value": 120 },
+            { "name": "Sauron", "value": 100 },
+            { "name": "Ungoliant", "value": 8 }
+        ]
+        },
+        {
+        "name": "Otros",
+        "children": [
+            { "name": "Tom Bombadil", "value": 5 },
+            { "name": "Shelob", "value": 12 },
+            { "name": "Beorn", "value": 10 },
+            { "name": "Treebeard", "value": 15 },
+            { "name": "Gollum", "value": 45 },
+            { "name": "Eärendil", "value": 30 }
+        ]
+        }
+    ]
+}
+ 

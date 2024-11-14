@@ -1,0 +1,442 @@
+[
+    {
+        "year": 1998,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 10
+            },
+            {
+                "name": "Leasure",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "year": 1999,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 6
+            }
+        ]
+    },
+    {
+        "year": 2000,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 8
+            },
+            {
+                "name": "Leasure",
+                "value": 4
+            },
+            {
+                "name": "Working",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "year": 2001,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Working",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "year": 2002,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Working",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "year": 2003,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Working",
+                "value": 4
+            }
+        ]
+    },
+
+    {
+        "year": 2004,
+        "values": [
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Working",
+                "value": 11
+            }
+        ]
+    },
+    {
+        "year": 2005,
+        "values": [
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Working",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "year": 2006,
+        "values": [
+            {
+                "name": "Studying",
+                "value": 6
+            },
+            {
+                "name": "Leasure",
+                "value": 8
+            }
+        ]
+    },
+    {
+        "year": 2007,
+        "values": [
+            {
+                "name": "Working",
+                "value": 10
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2008,
+        "values": [
+            {
+                "name": "Working",
+                "value": 10
+            },
+            {
+                "name": "Leasure",
+                "value": 4
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2009,
+        "values": [
+            {
+                "name": "Working",
+                "value": 11
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2010,
+        "values": [
+            {
+                "name": "Working",
+                "value": 10
+            },
+            {
+                "name": "Leasure",
+                "value": 4
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "values": [
+            {
+                "name": "Working",
+                "value": 10
+            },
+            {
+                "name": "Leasure",
+                "value": 3
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "values": [
+            {
+                "name": "Working",
+                "value": 11
+            },
+            {
+                "name": "Leasure",
+                "value": 2
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Leasure",
+                "value": 2
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "values": [
+            {
+                "name": "Working",
+                "value": 11
+            },
+            {
+                "name": "Leasure",
+                "value": 2
+            },
+            {
+                "name": "Family",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Leasure",
+                "value": 1
+            },
+            {
+                "name": "Family",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "values": [
+            {
+                "name": "Working",
+                "value": 11
+            },
+            {
+                "name": "Family",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "values": [
+            {
+                "name": "Working",
+                "value": 11
+            },
+            {
+                "name": "Leasure",
+                "value": 1
+            },
+            {
+                "name": "Family",
+                "value": 3
+            }
+        ]
+    },
+
+    {
+        "year": 2018,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Leasure",
+                "value": 1
+            },
+            {
+                "name": "Family",
+                "value": 3
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Leasure",
+                "value": 1
+            },
+            {
+                "name": "Family",
+                "value": 4
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Family",
+                "value": 4
+            }
+        ]
+    },
+
+    {
+        "year": 2021,
+        "values": [
+            {
+                "name": "Working",
+                "value": 12
+            },
+            {
+                "name": "Family",
+                "value": 4
+            }
+        ]
+    },
+
+    {
+        "year": 2022,
+        "values": [
+            {
+                "name": "Working",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 1
+            },
+            {
+                "name": "Family",
+                "value": 4
+            }
+        ]
+    },
+
+    {
+        "year": 2023,
+        "values": [
+            {
+                "name": "Working",
+                "value": 9
+            },
+            {
+                "name": "Leasure",
+                "value": 2
+            },
+            {
+                "name": "Family",
+                "value": 3
+            },
+            {
+                "name": "Studying",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2024,
+        "values": [
+            {
+                "name": "Working",
+                "value": 8
+            },
+            {
+                "name": "Leasure",
+                "value": 2
+            },
+            {
+                "name": "Family",
+                "value": 4
+            },
+            {
+                "name": "Studying",
+                "value": 2
+            }
+        ]
+    }
+]
