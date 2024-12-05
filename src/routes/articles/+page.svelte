@@ -5,8 +5,11 @@
         { id: 2, title: 'Visualizing The Lord of the Rings Characters', img: 'dendrogram.png' },
         { id: 3, title: 'A Life Timeline: Major Milestones and Time Allocation', img: 'timeline.png' },
         { id: 4, title: 'Mapping Bar Density in Badalona with a Contour Plot', img: 'contour.png' },
+        { id: 5, title: 'Whe the guest doubts', img: 'fondo_hoteles.png' },
     ];
     </script>
+
+
 <section class="container w-10/12 mx-auto">
     <h1 class=" text-center">My writings</h1>
     <p class="pb-6 text-center text-gray-500 mt-2 ">A collection of articles I've been writing as I am learning about data and visualization</p>

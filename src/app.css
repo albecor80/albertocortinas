@@ -6,6 +6,10 @@
 @tailwind components;
 @tailwind utilities;
 
+ ∂html {
+  scroll-behavior: smooth;
+}
+
 @layer base {
     h1 {
       @apply text-6xl;
@@ -27,5 +31,7 @@
         @apply mt-5;
       }
     }
+
+
 
   

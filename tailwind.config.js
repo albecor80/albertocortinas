@@ -12,7 +12,10 @@ module.exports = {
         turquoise: '#44c0c9',
         pink: '#dd6fb2',
         mint: '#59bf7f',
-      }
+      },
+      height: {
+        screen: "100vh",
+    }
     },
   },
   plugins: [require("@tailwindcss/typography")],
