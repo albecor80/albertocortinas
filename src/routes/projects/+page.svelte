@@ -1,1 +1,0 @@
-<h2 class="text-center">Coming soon</h2>
