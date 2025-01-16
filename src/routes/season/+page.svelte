@@ -66,7 +66,7 @@
     <!-- Navigation Buttons -->
 
     <a
-        href="/teams"
+        href="/points"
         class="absolute top-1/2 right-4 transform -translate-y-1/2 h-12 w-12 bg-gray-200 hover:bg-gray-300 flex items-center justify-center rounded-full shadow-md"
         aria-label="Next Page"
     >
