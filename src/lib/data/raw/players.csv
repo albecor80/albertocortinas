@@ -27,10 +27,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103563;B. McLemore;10;1;2;1;2;0;0;2;4;-4;7;Río Breogán;31,3;0;0,285714286;0,8;1;7;5;0;2;4;Titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;M. Jogela;10;8;0;0;2;0;0;1;2;-5;16;Río Breogán;18,55;1;0,5;1;2;2;3;2;1;3;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;S. Momirov;3;2;2;0;0;0;0;0;0;-6;4;Río Breogán;25;0;0,333333333;0;1;3;0;0;1;0;Titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
-103563;S. García;0;3;4;0;2;0;1;2;2;-9;-2;R�o Breog�n;17,45;0;0;0;4;2;0;0;0;0;Titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
+103563;S. García;0;3;4;0;2;0;1;2;2;-9;-2;Río Breogán;17,45;0;0;0;4;2;0;0;0;0;Titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;J. Sakho;7;8;0;0;1;1;0;2;3;-9;13;Río Breogán;24,08333333;0,333333333;0;0,833333333;3;0;6;1;0;5;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;M. Sajus;2;3;0;0;1;0;0;0;0;-1;4;Río Breogán;4;1;0;0;1;0;0;1;0;0;Titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
-103563;J. Fernández;5;0;0;0;0;1;0;1;1;-10;6;R�o Breog�n;13,13333333;1;0;1;2;0;1;2;0;1;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
+103563;J. Fernández;5;0;0;0;0;1;0;1;1;-10;6;Río Breogán;13,13333333;1;0;1;2;0;1;2;0;1;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;E. Quintela;0;2;0;0;2;0;0;0;0;3;-1;Río Breogán;3,25;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;R. Gray;2;1;0;1;3;0;0;0;3;-7;2;Río Breogán;8,2;0;0;1;2;0;2;0;0;2;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
 103563;S. Quintela;6;1;5;1;3;0;0;3;1;-3;2;Río Breogán;23,45;0,5;0;0;6;3;0;3;0;0;No titular;Lliga regular;9/3/24;Unicaja;Local;65;-11;Perdut;True
@@ -40,7 +40,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103563;T. Kalinoski;8;1;2;1;0;0;0;0;0;-3;11;Unicaja;11,05;1;0,666666667;0;1;3;0;1;2;0;No titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
 103563;K. Taylor;10;1;3;4;1;0;1;2;0;-2;10;Unicaja;18,86666667;0,833333333;0;0;6;3;0;5;0;0;No titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
 103563;J. Barreiro;0;4;0;1;1;0;0;2;0;14;1;Unicaja;17,2;0;0;0;0;1;0;0;0;0;Titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
-103563;A. Díaz;7;2;2;0;2;0;0;0;1;10;9;Unicaja;20,41666667;0;0,666666667;1;0;3;1;0;2;1;No titular;Lliga regular;9/3/24;R�o Breog�n;Visitant;76;11;Guanyat;True
+103563;A. Díaz;7;2;2;0;2;0;0;0;1;10;9;Unicaja;20,41666667;0;0,666666667;1;0;3;1;0;2;1;No titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
 103563;T. Carter;13;0;1;0;1;0;0;1;3;10;10;Unicaja;16,1;0,4;0,75;0;5;4;1;2;3;0;No titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
 103563;N. Djedovic;0;2;1;1;2;0;0;2;1;0;-2;Unicaja;16,06666667;0;0;0;1;2;0;0;0;0;Titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
 103563;W. Thomas;12;3;1;0;0;0;0;0;4;-1;19;Unicaja;14,6;1;0;1;3;1;6;3;0;6;No titular;Lliga regular;9/3/24;Río Breogán;Visitant;76;11;Guanyat;True
@@ -205,10 +205,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103570;B. McLemore;19;1;1;1;3;1;0;3;2;-6;13;Río Breogán;29,75;1;0,444444444;0,75;2;9;4;2;4;3;Titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;M. Jogela;7;5;1;2;1;0;0;0;1;13;9;Río Breogán;23,23333333;0,5;0,166666667;1;2;6;2;1;1;2;Titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;S. Momirov;7;1;0;0;1;0;0;0;1;-19;5;Río Breogán;17,1;1;0,25;1;1;4;2;1;1;2;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
-103570;S. García;10;3;5;4;0;0;0;1;3;4;17;R�o Breog�n;21,43333333;0,5;0;1;8;3;2;4;0;2;Titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
+103570;S. García;10;3;5;4;0;0;0;1;3;4;17;Río Breogán;21,43333333;0,5;0;1;8;3;2;4;0;2;Titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;J. Sakho;2;2;0;0;0;0;0;3;3;-12;2;Río Breogán;16,88333333;0;0;1;2;0;2;0;0;2;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;M. Sajus;0;3;1;0;0;0;0;4;3;-2;-3;Río Breogán;20,78333333;0;0;0;4;0;2;0;0;0;Titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
-103570;J. Fernández;0;0;0;0;0;0;0;0;0;-2;0;R�o Breog�n;2,716666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
+103570;J. Fernández;0;0;0;0;0;0;0;0;0;-2;0;Río Breogán;2,716666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;E. Quintela;5;1;0;1;0;0;0;0;1;6;7;Río Breogán;5,383333333;0;1;1;1;1;2;0;1;2;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;R. Gray;9;1;0;0;3;0;0;2;1;-12;5;Río Breogán;9,05;1;1;0,5;1;2;2;1;2;1;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
 103570;S. Quintela;3;3;4;1;1;0;0;1;1;-10;6;Río Breogán;15,03333333;0;0,5;0;3;2;0;0;1;0;No titular;Lliga regular;2/3/24;Joventut Badalona;Visitant;70;-8;Perdut;True
@@ -265,10 +265,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103573;B. McLemore;21;5;1;2;4;0;0;3;5;-3;19;Río Breogán;28,78333333;0,625;0,5;0,625;8;4;8;5;2;5;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;M. Jogela;5;2;2;1;2;0;0;3;1;-6;3;Río Breogán;11,56666667;0,5;0,333333333;0;2;3;0;1;1;0;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;S. Momirov;5;4;0;0;1;0;0;2;3;-3;2;Río Breogán;34,08333333;0,333333333;0,166666667;0;3;6;0;1;1;0;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
-103573;S. García;3;3;4;1;2;0;0;1;0;-5;3;R�o Breog�n;23,66666667;0;0,25;0;2;4;0;0;1;0;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
+103573;S. García;3;3;4;1;2;0;0;1;0;-5;3;Río Breogán;23,66666667;0;0,25;0;2;4;0;0;1;0;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;J. Sakho;13;4;1;1;1;0;0;2;5;-19;18;Río Breogán;20,15;1;0;0,5;5;0;6;5;0;3;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;M. Sajus;2;3;3;0;0;1;0;4;0;12;3;Río Breogán;18,45;0,333333333;0;0;3;0;0;1;0;0;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
-103573;J. Fernández;7;1;0;0;1;0;0;3;0;-8;3;R�o Breog�n;17,46666667;1;0,5;0;2;2;0;2;1;0;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
+103573;J. Fernández;7;1;0;0;1;0;0;3;0;-8;3;Río Breogán;17,46666667;1;0,5;0;2;2;0;2;1;0;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;False
 103573;S. Quintela;6;1;5;0;2;0;1;1;1;-5;4;Río Breogán;19,33333333;0,5;0;0;6;2;0;3;0;0;No titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
 103573;T. Nakic;11;2;1;0;0;0;0;3;1;-1;8;Río Breogán;22,63333333;1;0,4;0,5;2;5;2;2;2;1;Titular;Lliga regular;11/2/24;Real Madrid;Local;73;-7;Perdut;True
@@ -276,7 +276,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103573;A. Abalde;0;1;1;1;0;0;0;1;0;-4;1;Real Madrid;9,833333333;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
 103573;F. Campazzo;16;0;7;2;1;0;1;3;5;0;17;Real Madrid;29,81666667;0,8;0,125;1;5;8;5;4;1;5;Titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
 103573;M. Hezonja;6;6;1;1;0;0;0;2;1;12;11;Real Madrid;20,86666667;0,75;0;0;4;1;0;3;0;0;Titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
-103573;C. Alocén;2;1;0;0;0;1;0;0;2;0;5;Real Madrid;8,333333333;0;0;1;0;1;2;0;0;2;No titular;Lliga regular;11/2/24;R�o Breog�n;Visitant;80;7;Guanyat;True
+103573;C. Alocén;2;1;0;0;0;1;0;0;2;0;5;Real Madrid;8,333333333;0;0;1;0;1;2;0;0;2;No titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
 103573;G. Deck;7;9;1;1;2;0;0;0;1;8;15;Real Madrid;23,48333333;0,666666667;0,5;0;3;2;0;2;1;0;Titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
 103573;V. Poirier;5;5;0;0;0;0;0;2;2;4;9;Real Madrid;12,5;0,666666667;0;1;3;0;1;2;0;1;No titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
 103573;E. Tavares;13;6;0;0;1;0;0;3;4;3;19;Real Madrid;27,21666667;1;0;1;4;0;5;4;0;5;Titular;Lliga regular;11/2/24;Río Breogán;Visitant;80;7;Guanyat;True
@@ -604,11 +604,11 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103587;T. Cook;6;4;2;1;1;1;0;1;5;-9;8;Joventut Badalona;17,98333333;0,375;0;0;8;0;4;3;0;0;Titular;Lliga regular;17/3/24;Surne Bilbao Basket;Visitant;71;-21;Perdut;True
 103587;A. Tomic;19;9;3;1;4;0;0;3;9;-12;28;Joventut Badalona;23,81666667;0,636363636;0;0,714285714;11;0;7;7;0;5;No titular;Lliga regular;17/3/24;Surne Bilbao Basket;Visitant;71;-21;Perdut;True
 103588;O. DaSilva;11;2;1;0;0;0;1;3;1;6;9;Barça;15,2;0,714285714;0;1;7;0;1;5;0;1;Titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
-103588;O. Paulí;2;2;3;1;1;0;1;2;0;2;1;Barça;14,96666667;0,5;0;0;2;2;0;1;0;0;No titular;Lliga regular;17/3/24;R�o Breog�n;Local;85;-3;Perdut;True
+103588;O. Paulí;2;2;3;1;1;0;1;2;0;2;1;Barça;14,96666667;0,5;0;0;2;2;0;1;0;0;No titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
 103588;D. Brizuela;13;0;5;2;2;0;0;2;0;-3;12;Barça;24,01666667;0,5;0,6;0;4;5;0;2;3;0;Titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
 103588;R. Rubio;5;3;3;1;3;0;1;1;1;-3;6;Barça;18,81666667;0;1;1;2;1;2;0;1;2;Titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
 103588;N. Kalinic;0;0;0;0;0;0;0;0;0;0;0;Barça;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;False
-103588;W. Hernangómez;20;9;2;1;1;0;0;1;6;-6;29;Barça;27,76666667;0,642857143;0;0,5;14;0;4;9;0;2;Titular;Lliga regular;17/3/24;R�o Breog�n;Local;85;-3;Perdut;True
+103588;W. Hernangómez;20;9;2;1;1;0;0;1;6;-6;29;Barça;27,76666667;0,642857143;0;0,5;14;0;4;9;0;2;Titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
 103588;N. Laprovittola;0;0;0;0;0;0;0;0;0;0;0;Barça;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;False
 103588;A. Abrines;9;4;0;1;1;0;0;2;3;7;9;Barça;20,8;0,333333333;0,333333333;0,8;3;3;5;1;1;4;No titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
 103588;J. Parker;13;2;1;0;3;0;0;1;2;-9;7;Barça;24,8;0,625;0,2;0;8;5;0;5;1;0;No titular;Lliga regular;17/3/24;Río Breogán;Local;85;-3;Perdut;True
@@ -620,9 +620,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103588;B. McLemore;18;5;4;0;4;1;0;2;3;9;17;Río Breogán;30,7;0,333333333;0,571428571;0,666666667;6;7;3;2;4;2;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;M. Jogela;6;6;1;0;1;0;0;0;0;-4;9;Río Breogán;17,23333333;0,75;0;0;4;2;0;3;0;0;No titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;S. Momirov;6;1;1;2;0;0;0;0;1;4;5;Río Breogán;28,88333333;0;0,25;0;0;8;0;0;2;0;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
-103588;S. García;23;2;5;0;0;0;0;1;1;-2;28;R�o Breog�n;26,5;0,75;0,833333333;1;4;6;2;3;5;2;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
+103588;S. García;23;2;5;0;0;0;0;1;1;-2;28;Río Breogán;26,5;0,75;0,833333333;1;4;6;2;3;5;2;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;J. Sakho;8;5;0;0;1;1;0;1;2;-3;12;Río Breogán;19,85;0,75;0;0,666666667;4;0;3;3;0;2;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
-103588;J. Fernández;13;4;2;3;1;0;0;3;2;6;18;R�o Breog�n;20,15;0,714285714;1;0;7;1;0;5;1;0;No titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
+103588;J. Fernández;13;4;2;3;1;0;0;3;2;6;18;Río Breogán;20,15;0,714285714;1;0;7;1;0;5;1;0;No titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;E. Quintela;0;0;0;0;0;0;0;0;0;-8;-2;Río Breogán;2,4;0;0;0;2;0;0;0;0;0;No titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;S. Quintela;2;1;4;1;2;0;0;3;3;9;5;Río Breogán;14,25;0,5;0;0;2;0;0;1;0;0;No titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
 103588;T. Nakic;11;1;2;0;2;1;0;3;3;-2;7;Río Breogán;24,65;0,4;0,5;0,5;5;4;2;2;2;1;Titular;Lliga regular;17/3/24;Barça;Visitant;88;3;Guanyat;True
@@ -987,10 +987,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103604;B. McLemore;10;4;3;1;1;1;0;1;2;-1;12;Río Breogán;27,51666667;0,285714286;0,5;0;7;4;0;2;2;0;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;M. Jogela;11;1;2;1;1;0;0;1;3;11;14;Río Breogán;17,68333333;0,5;1;1;4;1;4;2;1;4;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;S. Momirov;12;1;0;1;1;0;0;2;1;18;8;Río Breogán;15,8;1;0,428571429;1;1;7;1;1;3;1;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
-103604;S. García;12;6;5;0;2;0;0;2;2;15;17;R�o Breog�n;22,2;0,333333333;0,5;1;3;4;4;1;2;4;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
+103604;S. García;12;6;5;0;2;0;0;2;2;15;17;Río Breogán;22,2;0,333333333;0,5;1;3;4;4;1;2;4;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;J. Sakho;2;2;1;0;1;1;0;1;0;4;4;Río Breogán;6,1;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;M. Sajus;12;2;1;1;1;1;0;0;5;6;16;Río Breogán;19,51666667;0,555555556;0;0,666666667;9;0;3;5;0;2;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
-103604;J. Fernández;6;6;1;0;2;0;1;1;2;9;6;R�o Breog�n;18,01666667;0,5;0;0;6;0;2;3;0;0;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
+103604;J. Fernández;6;6;1;0;2;0;1;1;2;9;6;Río Breogán;18,01666667;0,5;0;0;6;0;2;3;0;0;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;False
 103604;S. Quintela;10;0;8;1;0;0;0;1;2;3;17;Río Breogán;17,8;0,571428571;0;1;7;0;2;4;0;2;No titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
 103604;T. Nakic;0;2;0;0;0;0;0;3;0;14;-2;Río Breogán;23,56666667;0;0;0;1;0;0;0;0;0;Titular;Lliga regular;21/1/24;Bàsquet Girona;Local;93;18;Guanyat;True
@@ -1155,7 +1155,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103611;J. Puerto;5;1;0;0;0;0;0;0;0;-14;4;Valencia Basket;9,533333333;0,5;0,5;0;2;2;0;1;1;0;No titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
 103611;N. Reuvers;2;1;0;0;0;0;0;4;0;-11;-3;Valencia Basket;11,43333333;1;0;0;1;2;0;1;0;0;No titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
 103611;J. Pradilla;6;2;0;0;0;0;0;0;3;-9;9;Valencia Basket;15,43333333;1;0;0,666666667;1;0;6;1;0;4;No titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
-103611;X. López-Arostegui;6;11;1;2;0;0;0;1;5;12;18;Valencia Basket;24,75;0,4;0;0,5;5;1;4;2;0;2;Titular;Lliga regular;14/1/24;R�o Breog�n;Local;88;8;Guanyat;True
+103611;X. López-Arostegui;6;11;1;2;0;0;0;1;5;12;18;Valencia Basket;24,75;0,4;0;0,5;5;1;4;2;0;2;Titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
 103611;C. Jones;14;1;1;1;2;0;0;1;4;21;9;Valencia Basket;28,86666667;0,5;0,125;1;4;8;7;2;1;7;Titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
 103611;D. Inglis;2;6;1;1;2;0;0;2;1;-2;3;Valencia Basket;15,78333333;0,2;0;0;5;0;0;1;0;0;Titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
 103611;S. Jovic;2;0;2;0;0;0;0;1;0;-7;2;Valencia Basket;11,33333333;1;0;0;1;1;0;1;0;0;No titular;Lliga regular;14/1/24;Río Breogán;Local;88;8;Guanyat;True
@@ -1167,10 +1167,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103611;B. McLemore;12;0;0;1;0;1;0;5;3;-2;6;Río Breogán;16,23333333;0,4;0,5;0,666666667;5;4;3;2;2;2;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
 103611;M. Jogela;9;4;1;0;2;0;0;1;0;1;10;Río Breogán;21,11666667;1;0,5;0;3;2;0;3;1;0;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
 103611;S. Momirov;13;2;1;0;0;0;0;2;1;-18;9;Río Breogán;23,41666667;1;0,375;0,666666667;1;8;3;1;3;2;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
-103611;S. García;5;4;4;1;3;0;0;0;2;-18;4;R�o Breog�n;26,46666667;0,333333333;0;0,5;6;4;2;2;0;1;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
+103611;S. García;5;4;4;1;3;0;0;0;2;-18;4;Río Breogán;26,46666667;0,333333333;0;0,5;6;4;2;2;0;1;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
 103611;A. Ventura;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;False
 103611;M. Sajus;4;3;1;0;1;0;0;3;1;-27;5;Río Breogán;15,81666667;1;0;0;2;0;0;2;0;0;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
-103611;J. Fernández;5;6;2;0;3;1;0;3;4;12;7;R�o Breog�n;18,61666667;0;0,5;0,5;2;2;4;0;1;2;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
+103611;J. Fernández;5;6;2;0;3;1;0;3;4;12;7;Río Breogán;18,61666667;0;0,5;0,5;2;2;4;0;1;2;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
 103611;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;False
 103611;S. Quintela;0;0;6;2;1;0;0;2;1;0;5;Río Breogán;17,88333333;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
 103611;T. Nakic;11;4;1;1;0;1;0;3;2;-15;11;Río Breogán;29,35;0,5;0,333333333;0,75;2;6;4;1;2;3;Titular;Lliga regular;14/1/24;Valencia Basket;Visitant;80;-8;Perdut;True
@@ -1343,7 +1343,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103619;D. Robinson;13;3;2;0;1;1;0;3;4;3;11;BAXI Manresa;26,76666667;0,444444444;0,25;1;9;4;2;4;1;2;Titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;B. Badio;18;3;2;2;4;1;0;2;3;16;22;BAXI Manresa;26,11666667;1;1;0,666666667;5;2;3;5;2;2;Titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;T. Williams;2;4;2;0;0;0;0;4;1;0;1;BAXI Manresa;13,86666667;0;0;1;1;3;2;0;0;2;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
-103619;D. García;6;0;4;0;2;0;0;3;1;16;1;BAXI Manresa;16,26666667;0,5;0,25;0,5;2;4;2;1;1;1;No titular;Lliga regular;27/1/24;R�o Breog�n;Local;83;15;Guanyat;True
+103619;D. García;6;0;4;0;2;0;0;3;1;16;1;BAXI Manresa;16,26666667;0,5;0,25;0,5;2;4;2;1;1;1;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;B. Taylor;0;1;0;0;0;0;0;2;0;1;-2;BAXI Manresa;4,4;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;M. Steinbergs;13;6;1;0;0;0;0;2;2;10;18;BAXI Manresa;24,35;1;0,5;1;3;4;1;3;2;1;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;M. Sagnia;1;7;0;1;3;0;1;1;1;7;0;BAXI Manresa;20,8;0;0;0,5;2;2;2;0;0;1;Titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
@@ -1351,16 +1351,16 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103619;E. Valtonen;10;3;0;0;1;1;0;0;1;8;13;BAXI Manresa;18,75;0,5;1;1;2;2;2;1;2;2;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;J. Vaulet;6;4;0;3;1;0;0;1;2;11;11;BAXI Manresa;14,51666667;0,5;0;1;4;0;2;2;0;2;No titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;M. Geben;6;6;2;0;0;1;0;4;1;6;10;BAXI Manresa;14,36666667;0,666666667;0;1;3;1;2;2;0;2;Titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
-103619;D. Pérez;8;1;5;1;2;0;0;1;1;-3;5;BAXI Manresa;19,8;0,333333333;0,25;0;3;8;0;1;2;0;Titular;Lliga regular;27/1/24;R�o Breog�n;Local;83;15;Guanyat;True
+103619;D. Pérez;8;1;5;1;2;0;0;1;1;-3;5;BAXI Manresa;19,8;0,333333333;0,25;0;3;8;0;1;2;0;Titular;Lliga regular;27/1/24;Río Breogán;Local;83;15;Guanyat;True
 103619;A. Polite;4;7;0;0;1;0;1;1;3;-5;5;Río Breogán;23,85;0;0;1;3;3;4;0;0;4;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;M. Rudan;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;2,85;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;B. McLemore;15;1;0;0;2;0;2;2;5;-7;6;Río Breogán;21,38333333;0,6;0,333333333;0,5;5;6;6;3;2;3;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;M. Jogela;6;0;0;1;1;1;0;1;1;-7;6;Río Breogán;15,35;0;0,666666667;0;0;3;0;0;2;0;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;S. Momirov;8;4;1;2;0;0;0;3;1;-8;9;Río Breogán;23,96666667;0,5;0,4;0;2;5;0;1;2;0;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
-103619;S. García;5;1;4;1;2;0;0;0;2;-11;5;R�o Breog�n;20,96666667;0,4;0;1;5;3;1;2;0;1;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
+103619;S. García;5;1;4;1;2;0;0;0;2;-11;5;Río Breogán;20,96666667;0,4;0;1;5;3;1;2;0;1;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;J. Sakho;4;2;0;0;1;0;0;2;1;-6;4;Río Breogán;10,16666667;1;0;1;1;0;2;1;0;2;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;M. Sajus;8;2;2;0;1;0;0;2;1;-6;6;Río Breogán;20,65;0,8;0;0;5;1;2;4;0;0;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
-103619;J. Fernández;7;8;1;0;2;0;0;2;3;-10;5;R�o Breog�n;21,85;0,333333333;0;0,25;9;1;4;3;0;1;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
+103619;J. Fernández;7;8;1;0;2;0;0;2;3;-10;5;Río Breogán;21,85;0,333333333;0;0,25;9;1;4;3;0;1;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;False
 103619;S. Quintela;9;3;7;2;3;0;1;2;6;-5;18;Río Breogán;20,61666667;0,6;0;0,75;5;0;4;3;0;3;No titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
 103619;T. Nakic;2;5;1;2;0;0;0;2;0;-10;4;Río Breogán;18,35;0,5;0;0;2;3;0;1;0;0;Titular;Lliga regular;27/1/24;BAXI Manresa;Visitant;68;-15;Perdut;True
@@ -1557,13 +1557,13 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103628;T. Bell-Haynes;7;4;5;0;7;1;0;3;4;-5;7;Casademont Zaragoza;24,36666667;0,333333333;0;1;3;2;5;1;0;5;Titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;S. Yusta;6;5;0;2;3;1;0;2;2;1;5;Casademont Zaragoza;25,41666667;0,5;0;0;6;3;0;3;0;0;Titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;L. Langarita;0;3;0;0;0;1;0;2;0;7;-2;Casademont Zaragoza;15,1;0;0;0;3;1;0;0;0;0;Titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
-103628;M. González;0;6;0;0;1;0;0;0;1;5;5;Casademont Zaragoza;14,81666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;3/2/24;R�o Breog�n;Local;63;2;Guanyat;True
-103628;Y. Mencía;14;5;0;1;1;0;0;2;1;-4;15;Casademont Zaragoza;22,66666667;0,666666667;0,75;0,5;3;4;2;2;3;1;No titular;Lliga regular;3/2/24;R�o Breog�n;Local;63;2;Guanyat;True
+103628;M. González;0;6;0;0;1;0;0;0;1;5;5;Casademont Zaragoza;14,81666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
+103628;Y. Mencía;14;5;0;1;1;0;0;2;1;-4;15;Casademont Zaragoza;22,66666667;0,666666667;0,75;0,5;3;4;2;2;3;1;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;D. Kravic;8;12;0;0;1;1;0;1;2;3;17;Casademont Zaragoza;18,68333333;0,428571429;0;1;7;0;2;3;0;2;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;E. Sulejmanovic;7;3;0;0;0;1;1;2;4;6;5;Casademont Zaragoza;17,33333333;0,375;0;0,333333333;8;0;3;3;0;1;Titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;T. McFadden;5;1;4;2;1;0;0;1;2;-7;7;Casademont Zaragoza;24,7;0;0,166666667;1;0;6;2;0;1;2;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;A. Moreno;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;False
-103628;Y. Traoré;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;3/2/24;R�o Breog�n;Local;63;2;Guanyat;False
+103628;Y. Traoré;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;False
 103628;M. Watt;7;5;0;1;9;1;0;5;3;-3;-3;Casademont Zaragoza;21,28333333;0,428571429;0;0,333333333;7;0;3;3;0;1;Titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;D. Cuevas;9;1;1;1;0;0;0;3;1;7;8;Casademont Zaragoza;15,63333333;0;0,6;0;0;5;0;0;3;0;No titular;Lliga regular;3/2/24;Río Breogán;Local;63;2;Guanyat;True
 103628;A. Polite;5;5;1;3;0;0;1;1;2;8;10;Río Breogán;18,38333333;0,5;0;1;4;2;1;2;0;1;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
@@ -1571,10 +1571,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103628;B. McLemore;18;5;0;1;1;0;1;0;4;2;16;Río Breogán;21,01666667;0,4;0,222222222;1;5;9;8;2;2;8;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;M. Jogela;0;2;0;1;0;0;0;2;0;-19;-2;Río Breogán;12,76666667;0;0;0;0;3;0;0;0;0;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;S. Momirov;12;4;2;0;1;1;3;1;2;2;8;Río Breogán;33,06666667;0;0,333333333;0,75;1;9;4;0;3;3;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
-103628;S. García;0;5;1;2;2;0;0;2;2;6;2;R�o Breog�n;17,98333333;0;0;0;1;3;0;0;0;0;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
+103628;S. García;0;5;1;2;2;0;0;2;2;6;2;Río Breogán;17,98333333;0;0;0;1;3;0;0;0;0;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;J. Sakho;0;1;0;0;2;0;0;1;0;-10;-2;Río Breogán;2,783333333;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;M. Sajus;10;4;2;2;1;0;1;3;3;11;12;Río Breogán;26,16666667;0,571428571;0;0,666666667;7;0;3;4;0;2;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
-103628;J. Fernández;5;3;0;1;2;0;0;3;2;2;-3;R�o Breog�n;19,76666667;0;0,333333333;0,5;5;3;4;0;1;2;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
+103628;J. Fernández;5;3;0;1;2;0;0;3;2;2;-3;Río Breogán;19,76666667;0;0,333333333;0,5;5;3;4;0;1;2;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;E. Quintela;0;1;2;2;2;0;0;1;4;1;5;Río Breogán;11,93333333;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;S. Quintela;1;1;3;1;2;0;0;2;1;-5;0;Río Breogán;12,1;0;0;0,5;1;1;2;0;0;1;No titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
 103628;T. Nakic;10;2;1;2;3;0;0;4;1;7;6;Río Breogán;14,43333333;1;0,4;0;2;5;0;2;2;0;Titular;Lliga regular;3/2/24;Casademont Zaragoza;Visitant;61;-2;Perdut;True
@@ -1751,16 +1751,16 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103636;A. Pustovyi;19;6;0;0;0;4;1;3;5;9;23;Monbus Obradoiro;27,91666667;0,533333333;0;1;15;0;3;8;0;3;Titular;Lliga regular;23/3/24;Río Breogán;Local;83;11;Guanyat;True
 103636;R. Mendoza;16;1;3;1;1;0;0;4;2;11;15;Monbus Obradoiro;25,1;0,833333333;0,5;0;6;4;0;5;2;0;Titular;Lliga regular;23/3/24;Río Breogán;Local;83;11;Guanyat;True
 103636;R. Guerrero;0;0;0;0;0;0;0;0;0;0;0;Monbus Obradoiro;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/3/24;Río Breogán;Local;83;11;Guanyat;False
-103636;A. Suárez;0;4;0;0;0;0;0;2;0;3;2;Monbus Obradoiro;9,2;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/3/24;R�o Breog�n;Local;83;11;Guanyat;True
+103636;A. Suárez;0;4;0;0;0;0;0;2;0;3;2;Monbus Obradoiro;9,2;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/3/24;Río Breogán;Local;83;11;Guanyat;True
 103636;A. Polite;7;3;0;3;1;0;0;4;4;-8;11;Río Breogán;23,05;1;0;0,833333333;1;0;6;1;0;5;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;J. Robinson;9;1;0;1;1;0;0;0;3;0;8;Río Breogán;16,6;0;0,6;0;3;5;0;0;3;0;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;M. Rudan;0;2;0;0;0;0;1;1;0;1;-1;Río Breogán;2,683333333;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;B. McLemore;16;4;3;0;3;0;0;2;3;-5;15;Río Breogán;24,16666667;1;0,166666667;0,75;5;6;4;5;1;3;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;M. Jogela;0;0;0;0;0;0;0;0;0;-12;-2;Río Breogán;3,583333333;0;0;0;0;2;0;0;0;0;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;S. Momirov;15;0;1;0;0;0;0;1;0;-1;11;Río Breogán;30,65;1;0,428571429;0;3;7;0;3;3;0;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
-103636;S. García;9;4;6;0;1;0;1;0;3;-4;13;R�o Breog�n;26,68333333;0;0,6;0;5;5;0;0;3;0;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
+103636;S. García;9;4;6;0;1;0;1;0;3;-4;13;Río Breogán;26,68333333;0;0,6;0;5;5;0;0;3;0;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;J. Sakho;5;3;0;0;0;0;2;2;2;-12;2;Río Breogán;19,31666667;0,333333333;0;1;6;0;1;2;0;1;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
-103636;J. Fernández;5;1;1;0;1;1;0;3;5;0;4;R�o Breog�n;18;0,666666667;0;0,25;3;1;4;2;0;1;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
+103636;J. Fernández;5;1;1;0;1;1;0;3;5;0;4;Río Breogán;18;0,666666667;0;0,25;3;1;4;2;0;1;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;False
 103636;S. Quintela;0;1;3;0;1;0;0;3;0;-7;-3;Río Breogán;11;0;0;0;2;1;0;0;0;0;No titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
 103636;T. Nakic;6;6;1;1;1;0;2;2;1;-7;7;Río Breogán;24,26666667;0;0,666666667;0;2;3;0;0;2;0;Titular;Lliga regular;23/3/24;Monbus Obradoiro;Visitant;72;-11;Perdut;True
@@ -2130,9 +2130,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103652;K. Cheatham;13;6;2;0;1;0;0;3;1;1;13;Coviran Granada;30,43333333;0,555555556;0,5;0;9;2;0;5;1;0;Titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
 103652;S. Bamforth;17;0;0;0;1;0;0;4;3;3;9;Coviran Granada;21,33333333;0,5;0,444444444;1;2;9;3;1;4;3;No titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
 103652;E. Valtonen;4;5;0;1;2;0;0;5;2;4;0;Coviran Granada;16,98333333;0,333333333;0;1;3;3;2;1;0;2;No titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
-103652;C. Díaz;0;0;0;0;0;0;0;0;0;-8;-1;Coviran Granada;4,05;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;27/4/24;R�o Breog�n;Local;84;-1;Perdut;True
+103652;C. Díaz;0;0;0;0;0;0;0;0;0;-8;-1;Coviran Granada;4,05;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
 103652;L. Costa;12;3;3;1;0;0;0;0;6;6;16;Coviran Granada;30,15;0,5;0;0,666666667;8;3;6;4;0;4;Titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
-103652;P. Tomàs;0;1;1;0;2;0;0;1;0;4;-5;Coviran Granada;14,41666667;0;0;0;1;3;0;0;0;0;Titular;Lliga regular;27/4/24;R�o Breog�n;Local;84;-1;Perdut;True
+103652;P. Tomàs;0;1;1;0;2;0;0;1;0;4;-5;Coviran Granada;14,41666667;0;0;0;1;3;0;0;0;0;Titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
 103652;D. Iriarte;0;0;0;0;0;0;0;0;0;0;0;Coviran Granada;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;False
 103652;J. Wiley;2;6;1;0;2;2;0;4;1;-4;4;Coviran Granada;14,66666667;0,333333333;0;0;3;0;0;1;0;0;No titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
 103652;D. Kramer;22;1;2;1;1;0;0;3;0;4;22;Coviran Granada;25,93333333;1;1;0;5;4;0;5;4;0;Titular;Lliga regular;27/4/24;Río Breogán;Local;84;-1;Perdut;True
@@ -2141,10 +2141,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103652;B. McLemore;6;4;1;1;5;0;0;2;2;-3;1;Río Breogán;27,85;0,5;0;1;4;4;2;2;0;2;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;M. Jogela;11;8;1;1;2;0;0;3;1;8;14;Río Breogán;20,7;0,75;0,333333333;1;4;3;2;3;1;2;No titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;S. Momirov;8;2;0;0;1;0;0;2;0;-11;5;Río Breogán;19,21666667;0,5;0,666666667;0;2;3;0;1;2;0;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
-103652;S. García;7;0;3;1;2;0;0;0;2;-3;11;R�o Breog�n;21,05;0;1;1;0;1;4;0;1;4;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
+103652;S. García;7;0;3;1;2;0;0;0;2;-3;11;Río Breogán;21,05;0;1;1;0;1;4;0;1;4;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;J. Sakho;1;3;1;0;0;0;0;1;3;6;6;Río Breogán;17,66666667;0;0;0,5;0;0;2;0;0;1;No titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;M. Sajus;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;False
-103652;J. Fernández;12;6;0;1;0;1;0;2;5;-5;18;R�o Breog�n;22,35;0,666666667;0;0,666666667;6;1;6;4;0;4;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
+103652;J. Fernández;12;6;0;1;0;1;0;2;5;-5;18;Río Breogán;22,35;0,666666667;0;0,666666667;6;1;6;4;0;4;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;False
 103652;S. Quintela;2;0;0;0;2;0;0;2;2;4;-3;Río Breogán;9,866666667;1;0;0;1;1;2;1;0;0;No titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
 103652;T. Nakic;2;0;0;0;0;0;0;2;1;-10;-1;Río Breogán;12,36666667;0;0;1;1;1;2;0;0;2;Titular;Lliga regular;27/4/24;Coviran Granada;Visitant;85;1;Guanyat;True
@@ -2225,10 +2225,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103656;B. McLemore;9;2;2;2;4;1;0;3;4;0;7;Río Breogán;23,46666667;0,6;0,25;0;5;4;1;3;1;0;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;M. Jogela;5;6;1;0;1;1;0;3;0;20;6;Río Breogán;18,85;0,333333333;0,5;0;3;2;0;1;1;0;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;S. Momirov;3;2;0;0;0;0;0;2;2;33;0;Río Breogán;26,45;0;0,2;0;1;5;0;0;1;0;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
-103656;S. García;9;3;6;0;2;0;0;0;2;12;12;R�o Breog�n;20,7;0,333333333;0,333333333;1;6;3;2;2;1;2;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
+103656;S. García;9;3;6;0;2;0;0;0;2;12;12;Río Breogán;20,7;0,333333333;0,333333333;1;6;3;2;2;1;2;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;J. Sakho;7;9;2;1;1;1;0;3;2;19;16;Río Breogán;22,31666667;0,75;0;0,5;4;0;2;3;0;1;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;M. Sajus;0;1;0;0;0;0;0;1;1;-4;-1;Río Breogán;2,633333333;0;0;0;0;0;2;0;0;0;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
-103656;J. Fernández;9;5;1;0;1;1;1;4;2;7;7;R�o Breog�n;15,05;0,5;0,5;0,5;4;2;4;2;1;2;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
+103656;J. Fernández;9;5;1;0;1;1;1;4;2;7;7;Río Breogán;15,05;0,5;0,5;0,5;4;2;4;2;1;2;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;False
 103656;S. Quintela;0;0;0;0;1;0;0;2;2;-6;-1;Río Breogán;7,733333333;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
 103656;T. Nakic;16;2;1;0;1;0;0;2;0;19;15;Río Breogán;20,23333333;1;0,8;0;2;5;0;2;4;0;Titular;Lliga regular;5/5/24;Lenovo Tenerife;Local;76;22;Guanyat;True
@@ -2241,7 +2241,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103656;G. Shermadini;4;1;0;0;1;0;0;0;3;-2;7;Lenovo Tenerife;5,366666667;1;0;1;1;0;2;1;0;2;Titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
 103656;T. Abromaitis;5;4;1;1;0;0;2;2;1;-19;0;Lenovo Tenerife;27,73333333;0,2;0,2;0;5;5;0;1;1;0;Titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
 103656;E. Cook;4;1;1;0;1;0;0;2;1;-6;2;Lenovo Tenerife;21,6;0;1;0,5;1;1;2;0;1;1;Titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
-103656;A. López;2;1;0;0;0;0;0;0;2;6;5;Lenovo Tenerife;14,35;0;0;1;0;0;2;0;0;2;No titular;Lliga regular;5/5/24;R�o Breog�n;Visitant;54;-22;Perdut;True
+103656;A. López;2;1;0;0;0;0;0;0;2;6;5;Lenovo Tenerife;14,35;0;0;1;0;0;2;0;0;2;No titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
 103656;F. Guerra;8;6;0;0;6;0;0;4;7;-24;7;Lenovo Tenerife;17,73333333;0,5;0;0,666666667;6;0;3;3;0;2;No titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
 103656;L. Riga;0;1;0;0;0;0;0;0;0;-3;1;Lenovo Tenerife;1,4;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/5/24;Río Breogán;Visitant;54;-22;Perdut;True
 103657;I. Piñeiro;18;1;1;0;0;0;1;3;4;-12;16;Zunder Palencia;20,48333333;0,555555556;1;1;9;1;5;5;1;5;Titular;Lliga regular;9/5/24;Monbus Obradoiro;Local;75;-6;Perdut;True
@@ -2511,15 +2511,15 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103668;B. McLemore;3;3;2;0;1;0;2;2;3;-2;-1;Río Breogán;14,75;0;0;0,6;2;3;5;0;0;3;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;M. Jogela;14;6;2;1;1;3;1;3;1;12;15;Río Breogán;23,35;0,2;0,571428571;0;5;7;0;1;4;0;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;S. Momirov;9;1;2;1;2;0;0;0;2;9;12;Río Breogán;21,61666667;0;0,75;0;0;4;0;0;3;0;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
-103668;S. García;7;2;5;2;1;0;0;2;2;-1;13;R�o Breog�n;21,35;1;0;0,75;2;1;4;2;0;3;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
+103668;S. García;7;2;5;2;1;0;0;2;2;-1;13;Río Breogán;21,35;1;0;0,75;2;1;4;2;0;3;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;J. Sakho;4;6;1;0;1;2;0;4;1;7;8;Río Breogán;18,68333333;0,5;0;1;2;0;2;1;0;2;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;M. Sajus;2;3;0;0;0;0;1;2;1;1;0;Río Breogán;3,966666667;0,333333333;0;0;3;0;1;1;0;0;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
-103668;J. Fernández;8;2;1;0;0;0;1;2;1;-3;7;R�o Breog�n;17,35;0,75;0;1;4;1;2;3;0;2;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
+103668;J. Fernández;8;2;1;0;0;0;1;2;1;-3;7;Río Breogán;17,35;0,75;0;1;4;1;2;3;0;2;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;False
 103668;S. Quintela;2;3;0;1;1;0;0;1;0;0;4;Río Breogán;12,66666667;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;T. Nakic;17;1;3;1;1;0;0;3;2;8;19;Río Breogán;22,63333333;1;0,75;1;3;4;2;3;3;2;Titular;Lliga regular;10/5/24;MoraBanc Andorra;Local;97;5;Guanyat;True
 103668;M. Andric;13;1;0;0;0;0;0;3;2;11;13;MoraBanc Andorra;15,86666667;1;1;1;1;3;2;1;3;2;No titular;Lliga regular;10/5/24;Río Breogán;Visitant;92;-5;Perdut;True
-103668;T. Pérez;15;12;1;2;2;2;0;0;3;-10;26;MoraBanc Andorra;25,78333333;0,666666667;0;0,5;9;1;6;6;0;3;Titular;Lliga regular;10/5/24;R�o Breog�n;Visitant;92;-5;Perdut;True
+103668;T. Pérez;15;12;1;2;2;2;0;0;3;-10;26;MoraBanc Andorra;25,78333333;0,666666667;0;0,5;9;1;6;6;0;3;Titular;Lliga regular;10/5/24;Río Breogán;Visitant;92;-5;Perdut;True
 103668;J. Montero;6;4;6;3;1;0;2;3;4;-9;5;MoraBanc Andorra;24,66666667;0,125;0;1;8;5;4;1;0;4;Titular;Lliga regular;10/5/24;Río Breogán;Visitant;92;-5;Perdut;True
 103668;R. Luz;3;1;4;0;0;0;0;1;1;15;4;MoraBanc Andorra;19,81666667;0;0,5;0;3;2;0;0;1;0;No titular;Lliga regular;10/5/24;Río Breogán;Visitant;92;-5;Perdut;True
 103668;T. Borg;5;0;0;0;2;0;0;1;1;5;2;MoraBanc Andorra;9,833333333;0;0,5;1;0;2;2;0;1;2;No titular;Lliga regular;10/5/24;Río Breogán;Visitant;92;-5;Perdut;True
@@ -2751,22 +2751,22 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103678;B. McLemore;12;4;2;3;4;0;3;2;2;6;2;Río Breogán;28,21666667;0,272727273;0,4;0;11;5;1;3;2;0;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
 103678;M. Jogela;0;1;0;0;1;0;1;0;0;-8;-4;Río Breogán;4,55;0;0;0;2;1;0;0;0;0;No titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
 103678;S. Momirov;13;0;1;1;1;0;0;1;2;24;13;Río Breogán;29,56666667;1;0,6;0;2;5;0;2;3;0;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
-103678;S. García;9;6;8;1;1;0;0;3;6;8;22;R�o Breog�n;29,56666667;1;0,2;1;1;5;4;1;1;4;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
+103678;S. García;9;6;8;1;1;0;0;3;6;8;22;Río Breogán;29,56666667;1;0,2;1;1;5;4;1;1;4;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
 103678;J. Sakho;6;13;1;0;0;1;1;3;4;6;12;Río Breogán;21,95;0,222222222;0;0,5;9;0;4;2;0;2;No titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
-103678;J. Fernández;10;3;1;0;1;1;1;3;3;2;10;R�o Breog�n;18,05;1;0;0,666666667;4;2;3;4;0;2;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
+103678;J. Fernández;10;3;1;0;1;1;1;3;3;2;10;Río Breogán;18,05;1;0;0,666666667;4;2;3;4;0;2;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
 103678;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;False
 103678;S. Quintela;3;3;1;0;0;0;0;3;2;1;2;Río Breogán;13,66666667;1;0;0,5;1;3;2;1;0;1;No titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
 103678;T. Nakic;11;3;0;2;2;0;0;3;1;10;9;Río Breogán;21,01666667;1;0,25;1;3;4;2;3;1;2;Titular;Lliga regular;6/4/24;Zunder Palencia;Local;73;8;Guanyat;True
-103678;I. Piñeiro;4;2;0;0;0;0;0;4;1;1;-1;Zunder Palencia;20,51666667;0,4;0;0;5;1;0;2;0;0;Titular;Lliga regular;6/4/24;R�o Breog�n;Visitant;65;-8;Perdut;True
+103678;I. Piñeiro;4;2;0;0;0;0;0;4;1;1;-1;Zunder Palencia;20,51666667;0,4;0;0;5;1;0;2;0;0;Titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;M. Haarms;3;3;1;0;1;3;0;3;2;-7;6;Zunder Palencia;11,06666667;0,5;0;0,5;2;0;2;1;0;1;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;J. Hands;5;1;1;2;1;0;0;1;2;-12;5;Zunder Palencia;17,28333333;0,5;0,25;0;2;4;0;1;1;0;Titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;C. Ortega;3;4;0;0;2;0;0;3;0;5;1;Zunder Palencia;16,65;0;0,5;0;0;2;0;0;1;0;Titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;K. VanderVuurst;8;3;12;0;4;0;2;4;3;-5;10;Zunder Palencia;31,26666667;0,333333333;0;1;3;4;6;1;0;6;Titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;V. Benite;14;4;1;0;2;0;0;3;2;-4;11;Zunder Palencia;24,1;1;0,285714286;1;2;7;4;2;2;4;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;M. Kamba;6;4;0;1;2;1;0;1;1;-4;8;Zunder Palencia;27,63333333;0;0,666666667;0;1;3;0;0;2;0;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
-103678;M. Rodríguez;0;0;0;0;0;0;0;0;0;0;0;Zunder Palencia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;6/4/24;R�o Breog�n;Visitant;65;-8;Perdut;False
+103678;M. Rodríguez;0;0;0;0;0;0;0;0;0;0;0;Zunder Palencia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;False
 103678;A. Ubal;0;1;1;0;0;0;0;0;0;-1;1;Zunder Palencia;4,816666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
-103678;C. González;0;0;0;0;0;0;0;0;0;0;0;Zunder Palencia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;6/4/24;R�o Breog�n;Visitant;65;-8;Perdut;False
+103678;C. González;0;0;0;0;0;0;0;0;0;0;0;Zunder Palencia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;False
 103678;A. Pasecniks;22;2;0;1;4;3;0;2;8;-1;24;Zunder Palencia;28,93333333;0,714285714;0;0,5;14;0;4;10;0;2;Titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103678;C. Frankamp;0;2;1;0;1;0;0;2;1;-12;-3;Zunder Palencia;17,73333333;0;0;0;4;0;0;0;0;0;No titular;Lliga regular;6/4/24;Río Breogán;Visitant;65;-8;Perdut;True
 103679;T. Bell-Haynes;13;3;7;1;4;0;0;2;6;8;21;Casademont Zaragoza;23,71666667;0,666666667;1;0,6;3;2;5;2;2;3;Titular;Lliga regular;6/4/24;Monbus Obradoiro;Local;98;19;Guanyat;True
@@ -2965,10 +2965,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103687;B. McLemore;8;2;3;0;2;0;2;3;4;-2;-4;Río Breogán;26,71666667;0,142857143;0,125;0,75;7;8;4;1;1;3;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;M. Jogela;2;0;1;0;0;0;0;1;1;-4;1;Río Breogán;13,98333333;0;0;1;0;2;2;0;0;2;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;S. Momirov;12;7;2;1;0;1;1;1;2;-10;16;Río Breogán;32,71666667;0,6;0,166666667;1;5;6;3;3;1;3;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
-103687;S. García;10;5;4;1;1;0;0;1;2;-4;18;R�o Breog�n;24,46666667;1;0,5;1;1;4;2;1;2;2;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
+103687;S. García;10;5;4;1;1;0;0;1;2;-4;18;Río Breogán;24,46666667;1;0,5;1;1;4;2;1;2;2;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;J. Sakho;6;5;0;2;1;0;0;4;6;-7;12;Río Breogán;19,1;1;0;0,666666667;1;0;6;1;0;4;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;M. Sajus;2;1;0;0;1;0;0;1;0;-5;1;Río Breogán;3,783333333;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
-103687;J. Fernández;12;4;0;1;0;1;2;5;3;-10;9;R�o Breog�n;23,1;0,625;0;0,666666667;8;1;3;5;0;2;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
+103687;J. Fernández;12;4;0;1;0;1;2;5;3;-10;9;Río Breogán;23,1;0,625;0;0,666666667;8;1;3;5;0;2;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;False
 103687;S. Quintela;6;3;3;1;1;0;0;4;2;-9;9;Río Breogán;12,58333333;0,666666667;0;1;3;0;2;2;0;2;No titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
 103687;T. Nakic;3;2;2;0;2;0;2;1;2;-2;-1;Río Breogán;16,46666667;0;0;0,75;2;2;4;0;0;3;Titular;Lliga regular;30/3/24;Surne Bilbao Basket;Local;68;-12;Perdut;True
@@ -3254,9 +3254,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103699;B. McLemore;13;0;1;0;3;1;0;3;6;-12;10;Río Breogán;16,61666667;0,5;0,666666667;0,625;2;3;8;1;2;5;No titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
 103699;M. Jogela;0;0;2;0;0;0;0;2;0;-11;-2;Río Breogán;14;0;0;0;0;2;0;0;0;0;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
 103699;S. Momirov;6;6;3;2;0;0;1;2;1;-8;11;Río Breogán;34,33333333;0,75;0;0;4;3;0;3;0;0;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
-103699;S. García;2;2;1;2;2;0;1;3;0;-4;-6;R�o Breog�n;26,86666667;0,5;0;0;2;6;0;1;0;0;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
+103699;S. García;2;2;1;2;2;0;1;3;0;-4;-6;Río Breogán;26,86666667;0,5;0;0;2;6;0;1;0;0;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
 103699;J. Sakho;8;5;1;1;3;0;1;4;2;-8;6;Río Breogán;22,96666667;0,5;0;1;6;0;2;3;0;2;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
-103699;J. Fernández;14;7;0;3;3;1;1;5;3;1;14;R�o Breog�n;22,03333333;0,714285714;1;0,25;7;1;4;5;1;1;No titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
+103699;J. Fernández;14;7;0;3;3;1;1;5;3;1;14;Río Breogán;22,03333333;0,714285714;1;0,25;7;1;4;5;1;1;No titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
 103699;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;False
 103699;S. Quintela;6;2;0;1;0;0;1;1;3;17;5;Río Breogán;25,05;0,428571429;0;0;7;1;0;3;0;0;No titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
 103699;T. Nakic;0;1;0;0;1;1;1;0;0;-22;-2;Río Breogán;18,26666667;0;0;0;1;1;0;0;0;0;Titular;Lliga regular;20/4/24;Dreamland Gran Canaria;Local;70;-7;Perdut;True
@@ -3264,7 +3264,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103699;A. Albicy;3;7;3;0;5;0;0;2;6;11;6;Dreamland Gran Canaria;42,8;0;0;0,75;2;3;4;0;0;3;Titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
 103699;R. Prkacin;0;2;0;0;0;0;0;1;0;1;1;Dreamland Gran Canaria;2,85;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
 103699;N. Brussino;17;5;6;0;1;1;2;2;3;15;15;Dreamland Gran Canaria;38,4;0,5;0,142857143;0,8;10;7;5;5;1;4;Titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
-103699;M. Salvó;0;3;0;0;3;0;0;3;1;-13;-3;Dreamland Gran Canaria;7,066666667;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;20/4/24;R�o Breog�n;Visitant;77;7;Guanyat;True
+103699;M. Salvó;0;3;0;0;3;0;0;3;1;-13;-3;Dreamland Gran Canaria;7,066666667;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
 103699;P. Pelos;6;7;1;0;0;1;1;3;0;9;8;Dreamland Gran Canaria;19,56666667;0,75;0;0;4;2;0;3;0;0;No titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
 103699;J. Shurna;10;4;0;3;0;0;0;1;3;1;16;Dreamland Gran Canaria;25,7;0,666666667;0,5;0;3;4;0;2;2;0;Titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
 103699;S. Landesberg;3;1;0;0;0;0;0;1;0;-14;0;Dreamland Gran Canaria;12,5;0,333333333;0;1;3;1;1;1;0;1;No titular;Lliga regular;20/4/24;Río Breogán;Visitant;77;7;Guanyat;True
@@ -3398,7 +3398,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103705;T. Sedekerskis;2;0;0;0;1;1;0;0;1;7;1;Baskonia;22,48333333;0,5;0;0;2;1;0;1;0;0;No titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
 103705;V. Marinkovic;2;3;1;0;0;0;0;2;1;-10;-1;Baskonia;24,21666667;0,5;0;0;2;5;0;1;0;0;Titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
 103705;C. Miller-McIntyre;7;6;5;2;1;0;1;4;2;11;9;Baskonia;30,85;0,428571429;0;0,5;7;2;2;3;0;1;Titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
-103705;D. Díez;0;0;0;0;0;0;0;0;0;0;0;Baskonia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/4/24;R�o Breog�n;Local;76;2;Guanyat;False
+103705;D. Díez;0;0;0;0;0;0;0;0;0;0;0;Baskonia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;False
 103705;N. Rogkavopoulos;3;3;0;0;0;0;0;3;1;-3;3;Baskonia;17,91666667;0;0,5;0;0;2;0;0;1;0;No titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
 103705;M. Kotsar;2;2;3;0;0;0;0;1;0;-14;5;Baskonia;16,11666667;0,5;0;0;2;0;0;1;0;0;Titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
 103705;M. Costello;18;9;1;2;2;1;0;4;5;13;23;Baskonia;19,76666667;0,6;0,5;0,6;5;6;5;3;3;3;No titular;Lliga regular;14/4/24;Río Breogán;Local;76;2;Guanyat;True
@@ -3408,9 +3408,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103705;M. Rudan;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;False
 103705;M. Jogela;9;11;2;0;2;0;0;2;2;7;15;Río Breogán;25,33333333;1;0,25;0;3;4;2;3;1;0;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
 103705;S. Momirov;5;3;0;1;1;0;0;1;2;-2;3;Río Breogán;26,75;0,5;0,2;0;2;5;1;1;1;0;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
-103705;S. García;7;1;9;3;2;0;0;2;3;11;13;R�o Breog�n;31,53333333;0;0,166666667;1;1;6;4;0;1;4;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
+103705;S. García;7;1;9;3;2;0;0;2;3;11;13;Río Breogán;31,53333333;0;0,166666667;1;1;6;4;0;1;4;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
 103705;J. Sakho;11;5;0;0;1;0;0;4;3;-1;12;Río Breogán;24,75;0,833333333;0;0,5;6;0;2;5;0;1;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
-103705;J. Fernández;13;1;1;1;1;1;1;2;5;-1;14;R�o Breog�n;15,25;0,833333333;0;0,5;6;0;6;5;0;3;No titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
+103705;J. Fernández;13;1;1;1;1;1;1;2;5;-1;14;Río Breogán;15,25;0,833333333;0;0,5;6;0;6;5;0;3;No titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
 103705;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;False
 103705;S. Quintela;8;2;1;1;4;0;0;2;4;-11;7;Río Breogán;17,98333333;0,75;0;0,5;4;0;4;3;0;2;No titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
 103705;T. Nakic;10;6;2;0;0;1;0;1;2;1;15;Río Breogán;27,71666667;0;0,4;1;2;5;4;0;2;4;Titular;Lliga regular;14/4/24;Baskonia;Visitant;74;-2;Perdut;True
@@ -3658,7 +3658,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103716;T. Kalinoski;7;3;1;1;0;0;0;0;0;-1;9;Unicaja;21,51666667;0,666666667;0,333333333;0;3;3;0;2;1;0;Titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
 103716;K. Taylor;4;4;2;0;1;0;2;3;1;14;0;Unicaja;17,85;0,4;0;0;5;2;0;2;0;0;No titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
 103716;J. Barreiro;6;5;2;0;0;0;0;0;0;-3;10;Unicaja;17,4;0;0,4;0;0;5;0;0;2;0;Titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
-103716;A. Díaz;5;3;5;1;0;0;0;3;6;2;13;Unicaja;19,1;0,333333333;0,333333333;0;3;3;0;1;1;0;Titular;Lliga regular;28/10/23;R�o Breog�n;Local;87;17;Guanyat;True
+103716;A. Díaz;5;3;5;1;0;0;0;3;6;2;13;Unicaja;19,1;0,333333333;0,333333333;0;3;3;0;1;1;0;Titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
 103716;T. Carter;11;1;3;1;1;0;0;1;2;15;11;Unicaja;20,9;0,666666667;0,25;0;6;4;0;4;1;0;No titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
 103716;N. Djedovic;16;3;0;4;0;0;0;1;3;30;24;Unicaja;19,33333333;0,666666667;1;1;3;3;3;2;3;3;No titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
 103716;M. Saint-Supery;0;0;0;0;0;0;0;2;0;-6;-2;Unicaja;3,9;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;28/10/23;Río Breogán;Local;87;17;Guanyat;True
@@ -3670,7 +3670,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103716;S. Momirov;9;0;0;1;2;0;0;0;1;-10;7;Río Breogán;31,6;0;0,6;0;0;5;0;0;3;0;Titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
 103716;A. Ventura;1;3;0;0;1;0;0;0;1;-6;2;Río Breogán;10,46666667;0;0;0,5;0;1;2;0;0;1;No titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
 103716;M. Sajus;14;10;5;0;3;1;1;3;4;4;22;Río Breogán;23,1;0,444444444;0;1;9;0;6;4;0;6;Titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
-103716;J. Fernández;7;3;2;0;1;2;0;3;3;-16;11;R�o Breog�n;22,16666667;0;0,5;1;1;2;4;0;1;4;No titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
+103716;J. Fernández;7;3;2;0;1;2;0;3;3;-16;11;Río Breogán;22,16666667;0;0,5;1;1;2;4;0;1;4;No titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
 103716;E. Quintela;1;1;1;1;2;0;0;3;4;2;1;Río Breogán;12,38333333;0;0;0,5;0;1;2;0;0;1;Titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
 103716;C. Frankamp;11;2;2;0;2;0;0;4;0;-6;3;Río Breogán;19,63333333;0,25;0,5;0;4;6;0;1;3;0;No titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
 103716;M. Diouf;8;3;0;0;0;1;0;2;3;-14;10;Río Breogán;13,61666667;0,4;0;1;5;0;4;2;0;4;No titular;Lliga regular;28/10/23;Unicaja;Visitant;70;-17;Perdut;True
@@ -3873,7 +3873,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103725;B. Brown;5;2;7;1;5;0;1;1;0;6;2;Zunder Palencia;22,33333333;0,2;0,333333333;0;5;3;0;1;1;0;Titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
 103725;V. Benite;11;2;0;0;1;0;0;1;3;8;11;Zunder Palencia;21,01666667;1;0,25;1;2;4;4;2;1;4;Titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
 103725;M. Kamba;7;9;2;3;0;0;0;2;0;19;18;Zunder Palencia;31,85;1;0,5;0;2;2;0;2;1;0;Titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
-103725;M. Rodríguez;0;0;0;0;0;0;0;0;0;-3;-1;Zunder Palencia;2,083333333;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;21/10/23;R�o Breog�n;Local;74;15;Guanyat;True
+103725;M. Rodríguez;0;0;0;0;0;0;0;0;0;-3;-1;Zunder Palencia;2,083333333;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
 103725;A. Ubal;0;1;1;0;1;0;0;0;0;-3;0;Zunder Palencia;2,083333333;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
 103725;A. Pasecniks;4;3;0;1;3;4;0;4;2;18;3;Zunder Palencia;17,06666667;0,5;0;0;4;0;2;2;0;0;No titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;True
 103725;T. Leissner;0;0;0;0;0;0;0;0;0;0;0;Zunder Palencia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;21/10/23;Río Breogán;Local;74;15;Guanyat;False
@@ -3883,7 +3883,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103725;S. Momirov;3;5;1;0;1;0;0;1;1;-9;-2;Río Breogán;32,15;0;0,142857143;0;4;7;0;0;1;0;Titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
 103725;A. Ventura;0;3;1;0;0;0;0;0;1;-17;0;Río Breogán;14,36666667;0;0;0;0;3;2;0;0;0;No titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
 103725;M. Sajus;11;4;2;2;0;0;0;3;3;-11;14;Río Breogán;24,33333333;0,555555556;0;0,5;9;0;2;5;0;1;No titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
-103725;J. Fernández;2;3;2;0;1;1;1;0;1;-10;4;R�o Breog�n;18,9;0;0;1;2;1;2;0;0;2;No titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
+103725;J. Fernández;2;3;2;0;1;1;1;0;1;-10;4;Río Breogán;18,9;0;0;1;2;1;2;0;0;2;No titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
 103725;E. Quintela;0;5;1;1;1;0;0;1;3;-1;4;Río Breogán;18,31666667;0;0;0;4;0;0;0;0;0;Titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
 103725;C. Frankamp;5;0;2;1;2;0;0;2;1;-8;1;Río Breogán;16,15;0,5;0,25;0;2;4;0;1;1;0;No titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
 103725;M. Diouf;6;2;0;2;0;1;1;1;3;-4;7;Río Breogán;15,66666667;0,285714286;0;1;7;0;2;2;0;2;Titular;Lliga regular;21/10/23;Zunder Palencia;Visitant;59;-15;Perdut;True
@@ -3916,10 +3916,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103727;M. Rudan;6;6;1;0;1;0;1;3;3;1;6;Río Breogán;16,18333333;0,666666667;0;0,5;3;2;4;2;0;2;Titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;M. Jogela;14;1;0;1;1;0;3;1;0;6;2;Río Breogán;23,45;0,25;0,5;1;8;6;1;2;3;1;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;S. Momirov;3;8;3;0;1;0;0;2;0;-1;4;Río Breogán;30,78333333;0;0,2;0;3;5;0;0;1;0;Titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
-103727;S. García;0;0;0;0;0;0;0;0;0;0;0;R�o Breog�n;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;False
+103727;S. García;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;False
 103727;A. Ventura;1;0;0;2;0;0;1;1;2;-7;-2;Río Breogán;12,2;0;0;0,5;1;3;2;0;0;1;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;M. Sajus;5;4;0;0;1;0;0;2;4;5;3;Río Breogán;21,26666667;0,142857143;0;0,75;7;0;4;1;0;3;Titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
-103727;J. Fernández;13;8;1;1;1;2;2;0;5;-3;19;R�o Breog�n;23,81666667;0,444444444;0;0,714285714;9;1;7;4;0;5;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
+103727;J. Fernández;13;8;1;1;1;2;2;0;5;-3;19;Río Breogán;23,81666667;0,444444444;0;0,714285714;9;1;7;4;0;5;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;E. Quintela;7;2;1;2;1;0;0;2;5;-9;12;Río Breogán;17,3;0,666666667;0;0,75;3;0;4;2;0;3;Titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;C. Frankamp;0;0;0;0;0;0;0;0;0;4;-1;Río Breogán;5,333333333;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
 103727;M. Diouf;8;5;1;0;2;1;0;1;3;-7;10;Río Breogán;18,73333333;0,4;0;0,666666667;5;0;6;2;0;4;No titular;Lliga regular;15/10/23;Valencia Basket;Local;59;-2;Perdut;True
@@ -3931,11 +3931,11 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103727;C. Jones;17;2;2;1;1;0;0;2;3;6;17;Valencia Basket;22,63333333;0,7;0;0,6;10;0;5;7;0;3;Titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
 103727;G. Ferrando;6;4;0;1;4;0;0;3;0;-4;2;Valencia Basket;17,91666667;0;1;0;2;2;0;0;2;0;No titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
 103727;D. Inglis;7;2;3;0;4;0;0;3;2;11;7;Valencia Basket;13,91666667;0;1;1;0;1;4;0;1;4;No titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
-103727;B. Touré;3;4;0;0;1;4;0;3;1;-7;5;Valencia Basket;18,4;0,333333333;0;0,5;3;0;2;1;0;1;Titular;Lliga regular;15/10/23;R�o Breog�n;Visitant;61;2;Guanyat;True
+103727;B. Touré;3;4;0;0;1;4;0;3;1;-7;5;Valencia Basket;18,4;0,333333333;0;0,5;3;0;2;1;0;1;Titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
 103727;K. Robertson;5;2;3;0;1;1;0;0;2;-4;8;Valencia Basket;23,25;0;0,2;1;0;5;2;0;1;2;No titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
 103727;B. Davies;11;10;1;1;3;1;2;2;1;10;12;Valencia Basket;19;0,555555556;0;0,5;9;1;2;5;0;1;No titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
 103727;S. Ojeleye;2;1;0;1;0;0;0;1;0;-1;0;Valencia Basket;12,25;0,5;0;0;2;2;0;1;0;0;Titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;True
-103727;L. Marí;0;0;0;0;0;0;0;0;0;0;0;Valencia Basket;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;15/10/23;R�o Breog�n;Visitant;61;2;Guanyat;False
+103727;L. Marí;0;0;0;0;0;0;0;0;0;0;0;Valencia Basket;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;15/10/23;Río Breogán;Visitant;61;2;Guanyat;False
 103728;T. Bell-Haynes;6;2;3;1;6;0;1;2;1;-3;-1;Casademont Zaragoza;25,51666667;0,5;0;0;6;2;0;3;0;0;Titular;Lliga regular;15/10/23;Baskonia;Local;80;-5;Perdut;True
 103728;S. Yusta;9;2;5;2;2;0;0;1;1;2;13;Casademont Zaragoza;26,4;0,75;0,333333333;0;4;3;0;3;1;0;Titular;Lliga regular;15/10/23;Baskonia;Local;80;-5;Perdut;True
 103728;L. Langarita;0;0;0;0;0;0;0;0;1;-7;-2;Casademont Zaragoza;2,566666667;0;0;0;1;0;2;0;0;0;No titular;Lliga regular;15/10/23;Baskonia;Local;80;-5;Perdut;True
@@ -4132,10 +4132,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103736;M. Rudan;10;1;0;0;2;0;1;3;3;4;5;Río Breogán;13,56666667;0,666666667;0,5;0,75;3;2;4;2;1;3;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;M. Jogela;12;4;0;0;3;2;0;0;3;4;9;Río Breogán;24,31666667;0,4;0,285714286;0,666666667;5;7;3;2;2;2;Titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;S. Momirov;17;2;1;0;0;0;1;1;1;17;12;Río Breogán;28,45;0,333333333;0,5;0;3;10;0;1;5;0;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
-103736;S. García;7;6;7;0;2;0;0;2;2;4;15;R�o Breog�n;18,13333333;0,5;0,333333333;1;2;3;2;1;1;2;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
+103736;S. García;7;6;7;0;2;0;0;2;2;4;15;Río Breogán;18,13333333;0,5;0,333333333;1;2;3;2;1;1;2;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;A. Ventura;0;1;3;0;0;0;0;0;0;-1;3;Río Breogán;8,333333333;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;M. Sajus;2;3;0;0;1;1;0;1;1;-9;4;Río Breogán;13,66666667;0,5;0;0;2;0;0;1;0;0;Titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
-103736;J. Fernández;18;8;1;1;3;1;1;4;5;8;20;R�o Breog�n;29,56666667;0,5;0,5;0,875;8;2;8;4;1;7;Titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
+103736;J. Fernández;18;8;1;1;3;1;1;4;5;8;20;Río Breogán;29,56666667;0,5;0,5;0,875;8;2;8;4;1;7;Titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;E. Quintela;0;2;0;1;0;0;0;3;0;8;-1;Río Breogán;11,53333333;0;0;0;0;1;0;0;0;0;Titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;M. Diouf;4;0;1;0;0;3;0;1;0;-4;5;Río Breogán;12,45;0,5;0;0;4;0;0;2;0;0;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
 103736;S. Quintela;11;6;5;1;2;0;1;2;5;11;20;Río Breogán;25,68333333;0,5;0,5;1;4;2;4;2;1;4;No titular;Lliga regular;11/11/23;Joventut Badalona;Local;85;8;Guanyat;True
@@ -4199,20 +4199,20 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103739;M. Rudan;4;3;1;0;0;0;0;3;0;-3;5;Río Breogán;15,98333333;1;0;0;2;0;0;2;0;0;Titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;M. Jogela;4;3;5;1;3;0;0;3;1;-16;2;Río Breogán;28,06666667;0,4;0;0;5;3;0;2;0;0;Titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;S. Momirov;7;2;1;0;2;0;0;2;1;-14;2;Río Breogán;27,58333333;0;0,285714286;1;0;7;1;0;2;1;Titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
-103739;S. García;0;0;0;0;0;0;0;0;0;0;0;R�o Breog�n;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;False
+103739;S. García;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;False
 103739;A. Ventura;0;1;1;2;0;0;0;0;0;0;4;Río Breogán;12,51666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;M. Sajus;15;1;1;0;1;1;0;2;5;-11;17;Río Breogán;18,58333333;0,666666667;0;1;9;0;3;6;0;3;Titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
-103739;J. Fernández;5;2;0;0;1;0;1;2;2;-13;2;R�o Breog�n;13,01666667;0,333333333;0;0,75;3;0;4;1;0;3;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
+103739;J. Fernández;5;2;0;0;1;0;1;2;2;-13;2;Río Breogán;13,01666667;0,333333333;0;0,75;3;0;4;1;0;3;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;E. Quintela;3;3;2;0;2;0;1;2;3;-12;1;Río Breogán;22,9;1;0;0,5;1;4;2;1;0;1;Titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;M. Diouf;10;2;0;0;2;1;1;1;4;-5;10;Río Breogán;21,41666667;0,571428571;0;1;7;0;2;4;0;2;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;S. Quintela;3;2;1;0;0;0;0;2;0;-4;0;Río Breogán;17,1;0;0,333333333;0;2;3;0;0;1;0;No titular;Lliga regular;5/11/23;Barça;Local;63;-16;Perdut;True
 103739;O. DaSilva;5;3;1;1;0;0;1;3;2;15;6;Barça;24,58333333;0;1;1;2;1;2;0;1;2;Titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
-103739;O. Paulí;9;3;1;0;1;0;0;1;1;1;11;Barça;15,76666667;1;0,5;0;3;2;0;3;1;0;No titular;Lliga regular;5/11/23;R�o Breog�n;Visitant;79;16;Guanyat;True
+103739;O. Paulí;9;3;1;0;1;0;0;1;1;1;11;Barça;15,76666667;1;0,5;0;3;2;0;3;1;0;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;J. Vesely;14;7;1;1;1;2;0;1;1;24;24;Barça;20,83333333;1;0;0;7;0;0;7;0;0;Titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;D. Brizuela;9;2;2;0;4;0;0;4;2;11;-1;Barça;24,08333333;0,375;0,25;0;8;4;0;3;1;0;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;N. Kalinic;6;3;3;0;2;0;0;2;0;9;6;Barça;17,28333333;0;0,5;0;0;4;0;0;2;0;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;T. Satoransky;7;3;7;1;1;0;0;0;3;17;17;Barça;25,76666667;0,666666667;0,333333333;0;3;3;0;2;1;0;Titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
-103739;W. Hernangómez;6;6;1;0;4;0;1;2;3;-8;6;Barça;10,53333333;0,5;0;1;4;1;2;2;0;2;No titular;Lliga regular;5/11/23;R�o Breog�n;Visitant;79;16;Guanyat;True
+103739;W. Hernangómez;6;6;1;0;4;0;1;2;3;-8;6;Barça;10,53333333;0,5;0;1;4;1;2;2;0;2;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;A. Abrines;7;4;2;2;1;0;0;2;1;20;11;Barça;21,4;0,666666667;0,5;0;3;2;0;2;1;0;Titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;J. Parker;9;2;0;0;0;1;0;0;3;1;12;Barça;15,41666667;0,5;0,5;1;4;2;2;2;1;2;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
 103739;J. Nnaji;4;2;0;1;0;1;0;3;1;0;6;Barça;8,633333333;1;0;0;2;0;0;2;0;0;No titular;Lliga regular;5/11/23;Río Breogán;Visitant;79;16;Guanyat;True
@@ -4647,10 +4647,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103758;M. Rudan;13;2;1;0;2;0;0;1;5;-6;14;Río Breogán;19,98333333;0,5;0,5;0,857142857;4;2;7;2;1;6;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;D. Agravanis;2;0;0;0;0;0;0;1;0;-1;0;Río Breogán;5,816666667;1;0;0;1;1;0;1;0;0;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;S. Momirov;2;2;2;0;1;0;1;2;2;1;-7;Río Breogán;28,91666667;0,142857143;0;0;7;5;0;1;0;0;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
-103758;S. García;10;0;1;3;0;0;0;0;2;-12;11;R�o Breog�n;27,26666667;0;0,333333333;1;1;6;4;0;2;4;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
+103758;S. García;10;0;1;3;0;0;0;0;2;-12;11;Río Breogán;27,26666667;0;0,333333333;1;1;6;4;0;2;4;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;A. Ventura;6;4;1;1;0;1;0;1;1;6;9;Río Breogán;25,95;0,5;0;1;4;2;2;2;0;2;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;M. Sajus;6;5;1;0;1;0;0;1;3;-7;13;Río Breogán;23,95;1;0;1;2;0;2;2;0;2;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
-103758;J. Fernández;11;7;0;0;3;0;1;4;3;0;6;R�o Breog�n;18,26666667;0,4;0,333333333;0,666666667;5;3;6;2;1;4;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
+103758;J. Fernández;11;7;0;0;3;0;1;4;3;0;6;Río Breogán;18,26666667;0,4;0,333333333;0,666666667;5;3;6;2;1;4;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;E. Quintela;7;1;2;1;1;0;0;5;1;6;4;Río Breogán;9,45;0,75;0;1;4;1;1;3;0;1;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;M. Diouf;10;9;0;0;2;3;0;3;5;7;17;Río Breogán;19,28333333;0,5;0;0,75;4;1;8;2;0;6;No titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
 103758;S. Quintela;14;5;3;0;4;0;0;1;5;-4;19;Río Breogán;28,96666667;0,4;1;1;5;1;7;2;1;7;Titular;Lliga regular;1/10/23;BAXI Manresa;Local;85;-4;Perdut;True
@@ -4658,14 +4658,14 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103758;B. Badio;10;0;4;1;3;0;2;4;2;6;-2;BAXI Manresa;26,03333333;0,5;0;1;6;7;4;3;0;4;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;T. Williams;12;4;2;2;2;0;0;3;0;3;9;BAXI Manresa;23,18333333;0;0,5;0;2;8;0;0;4;0;Titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;G. Jou;0;2;1;0;0;0;0;0;0;-7;1;BAXI Manresa;16,3;0;0;0;0;2;0;0;0;0;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
-103758;D. García;1;0;0;0;0;0;0;0;5;-7;2;BAXI Manresa;9,016666667;0;0;0,5;0;3;2;0;0;1;No titular;Lliga regular;1/10/23;R�o Breog�n;Visitant;89;4;Guanyat;True
+103758;D. García;1;0;0;0;0;0;0;0;5;-7;2;BAXI Manresa;9,016666667;0;0;0,5;0;3;2;0;0;1;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;B. Taylor;3;1;1;0;1;0;0;1;3;3;-1;BAXI Manresa;17,11666667;0;0,333333333;0;3;3;2;0;1;0;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;M. Steinbergs;5;4;2;1;0;0;1;3;1;2;5;BAXI Manresa;19,91666667;0,333333333;0,333333333;0;3;3;0;1;1;0;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;M. Sagnia;3;2;0;0;0;1;0;4;2;8;2;BAXI Manresa;19,43333333;0;0,333333333;0;0;3;0;0;1;0;Titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;J. Vaulet;3;6;2;0;1;0;1;3;1;-7;5;BAXI Manresa;20,03333333;0;1;0;2;1;0;0;1;0;Titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;M. Geben;11;4;1;0;1;1;0;4;0;2;8;BAXI Manresa;19,3;0,571428571;0,5;0;7;2;0;4;1;0;Titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103758;J. Zohore;3;2;1;0;0;0;0;1;0;0;3;BAXI Manresa;5,783333333;0;1;0;2;1;0;0;1;0;No titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
-103758;D. Pérez;20;1;6;1;1;0;0;1;1;8;18;BAXI Manresa;24,26666667;0,375;0,5;1;8;8;2;3;4;2;Titular;Lliga regular;1/10/23;R�o Breog�n;Visitant;89;4;Guanyat;True
+103758;D. Pérez;20;1;6;1;1;0;0;1;1;8;18;BAXI Manresa;24,26666667;0,375;0,5;1;8;8;2;3;4;2;Titular;Lliga regular;1/10/23;Río Breogán;Visitant;89;4;Guanyat;True
 103759;F. Causeur;0;1;0;0;0;0;0;0;0;-6;-1;Real Madrid;5,233333333;0;0;0;0;2;0;0;0;0;No titular;Lliga regular;1/10/23;Barça;Local;86;7;Guanyat;True
 103759;I. Diagne;9;8;0;1;0;1;0;2;2;3;16;Real Madrid;13,45;0,666666667;0;0,5;6;0;2;4;0;1;Titular;Lliga regular;1/10/23;Barça;Local;86;7;Guanyat;True
 103759;R. Fernández;4;4;0;1;1;0;0;2;1;3;3;Real Madrid;16,41666667;0;0,25;0,5;0;4;2;0;1;1;No titular;Lliga regular;1/10/23;Barça;Local;86;7;Guanyat;True
@@ -4821,7 +4821,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103765;A. Somogyi;2;1;2;0;1;0;0;1;0;4;3;MoraBanc Andorra;6,266666667;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;8/10/23;Barça;Visitant;87;-4;Perdut;True
 103765;M. Maric;19;8;0;0;1;1;1;2;3;-5;23;MoraBanc Andorra;17,18333333;0,727272727;0;0,75;11;0;4;8;0;3;No titular;Lliga regular;8/10/23;Barça;Visitant;87;-4;Perdut;True
 103766;E. Vicedo;0;0;0;0;0;0;0;0;0;0;0;Lenovo Tenerife;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/10/23;Río Breogán;Local;88;7;Guanyat;False
-103766;J. Fernández;10;1;2;0;2;0;2;3;2;-2;2;Lenovo Tenerife;17,71666667;0,428571429;0;1;7;2;4;3;0;4;No titular;Lliga regular;7/10/23;R�o Breog�n;Local;88;7;Guanyat;True
+103766;J. Fernández;10;1;2;0;2;0;2;3;2;-2;2;Lenovo Tenerife;17,71666667;0,428571429;0;1;7;2;4;3;0;4;No titular;Lliga regular;7/10/23;Río Breogán;Local;88;7;Guanyat;True
 103766;B. Fitipaldo;0;1;1;2;0;0;0;4;1;6;-3;Lenovo Tenerife;23,68333333;0;0;0;1;3;0;0;0;0;No titular;Lliga regular;7/10/23;Río Breogán;Local;88;7;Guanyat;True
 103766;M. Huertas;22;1;5;0;4;0;1;3;2;10;18;Lenovo Tenerife;30,75;0,727272727;0,5;1;11;2;3;8;1;3;Titular;Lliga regular;7/10/23;Río Breogán;Local;88;7;Guanyat;True
 103766;S. Salin;3;4;0;1;0;0;0;1;2;2;4;Lenovo Tenerife;21,06666667;0;0,2;0;1;5;0;0;1;0;Titular;Lliga regular;7/10/23;Río Breogán;Local;88;7;Guanyat;True
@@ -4835,10 +4835,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103766;M. Rudan;5;4;0;0;2;0;0;2;2;-8;3;Río Breogán;17,15;0,666666667;0;0,5;3;2;2;2;0;1;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;M. Jogela;21;6;3;2;0;2;0;0;5;-3;32;Río Breogán;30,6;0,666666667;0,285714286;1;6;7;7;4;2;7;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;S. Momirov;5;2;3;1;2;0;0;2;1;-7;3;Río Breogán;31;0,333333333;0,25;0;3;4;0;1;1;0;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
-103766;S. García;15;0;3;1;2;2;0;2;1;-12;11;R�o Breog�n;24,38333333;0,5;0,5;0,5;8;4;2;4;2;1;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
+103766;S. García;15;0;3;1;2;2;0;2;1;-12;11;Río Breogán;24,38333333;0,5;0,5;0,5;8;4;2;4;2;1;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;A. Ventura;2;6;2;2;1;0;0;3;0;-3;8;Río Breogán;29,11666667;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;M. Sajus;4;3;0;1;1;0;0;5;4;4;5;Río Breogán;15;0,666666667;0;0;3;0;0;2;0;0;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
-103766;J. Fernández;18;8;1;0;2;1;0;3;5;-5;23;R�o Breog�n;29,86666667;0,714285714;0,5;0,666666667;7;4;3;5;2;2;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
+103766;J. Fernández;18;8;1;0;2;1;0;3;5;-5;23;Río Breogán;29,86666667;0,714285714;0,5;0,666666667;7;4;3;5;2;2;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;E. Quintela;2;1;2;1;2;0;0;0;1;1;0;Río Breogán;10,53333333;0,25;0;0;4;2;0;1;0;0;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;M. Diouf;4;0;0;0;1;2;0;5;2;-2;0;Río Breogán;11,33333333;1;0;0,666666667;1;1;3;1;0;2;No titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
 103766;S. Quintela;5;3;3;0;0;0;0;4;1;0;4;Río Breogán;26,01666667;0,25;0,5;0;4;2;0;1;1;0;Titular;Lliga regular;7/10/23;Lenovo Tenerife;Visitant;81;-7;Perdut;True
@@ -5182,10 +5182,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103781;M. Rudan;6;2;0;0;1;0;0;2;2;-12;4;Río Breogán;16,95;1;0;1;2;3;2;2;0;2;Titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
 103781;M. Jogela;7;2;1;0;0;0;0;1;1;13;2;Río Breogán;18,25;0,2;0,2;1;5;5;2;1;1;2;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
 103781;S. Momirov;12;2;3;0;0;0;1;1;0;-22;8;Río Breogán;21,75;0;0,363636364;0;0;11;0;0;4;0;Titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
-103781;S. García;8;4;4;3;3;0;0;1;1;3;10;R�o Breog�n;24,71666667;0,666666667;0,2;0,5;3;5;2;2;1;1;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
+103781;S. García;8;4;4;3;3;0;0;1;1;3;10;Río Breogán;24,71666667;0,666666667;0,2;0,5;3;5;2;2;1;1;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
 103781;A. Ventura;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;False
 103781;M. Sajus;10;8;1;1;2;2;0;2;1;-6;17;Río Breogán;25,36666667;0,666666667;0;1;6;0;2;4;0;2;Titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
-103781;J. Fernández;13;6;1;0;0;0;0;2;3;-6;19;R�o Breog�n;20,28333333;0,857142857;0;0,5;7;0;2;6;0;1;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
+103781;J. Fernández;13;6;1;0;0;0;0;2;3;-6;19;Río Breogán;20,28333333;0,857142857;0;0,5;7;0;2;6;0;1;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
 103781;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;False
 103781;Z. Sisko;5;1;4;0;1;0;0;4;2;-9;4;Río Breogán;16,55;0,5;0,5;0;2;2;1;1;1;0;Titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
 103781;M. Diouf;7;2;0;0;0;2;0;1;5;3;11;Río Breogán;12,31666667;1;0;0,5;2;1;6;2;0;3;No titular;Lliga regular;24/9/23;Baskonia;Local;79;-9;Perdut;True
@@ -5196,7 +5196,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103781;T. Sedekerskis;4;5;1;1;0;0;0;2;0;13;9;Baskonia;21,68333333;1;0;0;2;0;0;2;0;0;Titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
 103781;V. Marinkovic;5;2;0;0;0;1;0;2;2;-8;5;Baskonia;15,3;0;1;1;3;1;2;0;1;2;No titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
 103781;C. Miller-McIntyre;14;3;4;2;2;1;0;2;2;14;18;Baskonia;28,9;0,571428571;0,666666667;0;7;3;0;4;2;0;Titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
-103781;D. Díez;0;0;0;0;0;0;0;0;0;0;0;Baskonia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;24/9/23;R�o Breog�n;Visitant;88;9;Guanyat;False
+103781;D. Díez;0;0;0;0;0;0;0;0;0;0;0;Baskonia;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;False
 103781;N. Rogkavopoulos;2;0;2;1;0;0;0;0;0;-5;3;Baskonia;18,2;1;0;0;1;2;0;1;0;0;No titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
 103781;K. Diop;5;0;0;1;1;0;0;3;2;-8;3;Baskonia;11,61666667;1;0;0,75;1;0;4;1;0;3;No titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
 103781;M. Kotsar;14;5;0;0;1;0;1;4;4;18;13;Baskonia;24,05;0,714285714;0;0,666666667;7;0;6;5;0;4;Titular;Lliga regular;24/9/23;Río Breogán;Visitant;88;9;Guanyat;True
@@ -5348,7 +5348,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103787;J. Parra;9;3;1;0;1;0;0;1;2;-6;9;Barça;16,6;0,666666667;0,333333333;0,666666667;3;3;3;2;1;2;No titular;Lliga regular;29/9/23;Zunder Palencia;Visitant;84;1;Guanyat;True
 103788;M. Andric;3;2;0;0;0;0;0;3;0;1;1;MoraBanc Andorra;12,83333333;0;0,5;0;0;2;0;0;1;0;No titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
 103788;A. Goudelock;8;1;1;1;4;0;0;1;1;-2;2;MoraBanc Andorra;19,46666667;0,25;0,5;0;4;4;0;1;2;0;Titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
-103788;T. Pérez;4;11;2;1;2;1;0;4;3;-10;13;MoraBanc Andorra;27,7;0;1;0,5;2;1;2;0;1;1;Titular;Lliga regular;29/9/23;R�o Breog�n;Local;63;-6;Perdut;True
+103788;T. Pérez;4;11;2;1;2;1;0;4;3;-10;13;MoraBanc Andorra;27,7;0;1;0,5;2;1;2;0;1;1;Titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
 103788;M. Starks;7;0;1;1;1;0;0;4;1;-1;0;MoraBanc Andorra;18,21666667;0,5;0,25;0;4;4;0;2;1;0;No titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
 103788;R. Luz;4;1;2;0;2;0;0;4;3;5;1;MoraBanc Andorra;22,55;0,5;0;1;2;2;2;1;0;2;Titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
 103788;T. Borg;1;2;3;0;2;1;0;1;2;-9;3;MoraBanc Andorra;20,06666667;0;0;0,5;0;2;2;0;0;1;No titular;Lliga regular;29/9/23;Río Breogán;Local;63;-6;Perdut;True
@@ -5362,10 +5362,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103788;D. Agravanis;7;1;1;2;0;0;2;2;3;-4;6;Río Breogán;14,28333333;0,5;0;0,75;4;1;4;2;0;3;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;M. Jogela;3;3;1;1;1;0;0;2;3;11;1;Río Breogán;26,76666667;0,5;0;0,5;2;5;2;1;0;1;Titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;S. Momirov;20;4;1;3;0;0;0;2;4;15;24;Río Breogán;30,41666667;0,8;0,428571429;0,75;5;7;4;4;3;3;Titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
-103788;S. García;10;2;3;2;0;0;0;0;2;-10;12;R�o Breog�n;22,56666667;0,571428571;0;1;7;4;2;4;0;2;Titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
+103788;S. García;10;2;3;2;0;0;0;0;2;-10;12;Río Breogán;22,56666667;0,571428571;0;1;7;4;2;4;0;2;Titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;A. Ventura;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;False
 103788;M. Sajus;4;0;1;0;0;1;1;3;2;-5;1;Río Breogán;14,8;0,4;0;0;5;0;0;2;0;0;Titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
-103788;J. Fernández;4;5;1;0;1;0;0;4;2;12;6;R�o Breog�n;16,35;0,666666667;0;0;3;0;0;2;0;0;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
+103788;J. Fernández;4;5;1;0;1;0;0;4;2;12;6;Río Breogán;16,35;0,666666667;0;0;3;0;0;2;0;0;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;E. Quintela;0;2;2;0;1;0;0;1;1;7;3;Río Breogán;8,433333333;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;M. Diouf;8;5;0;0;0;0;1;1;4;-5;8;Río Breogán;17,58333333;0,166666667;0;0,75;6;0;8;1;0;6;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
 103788;S. Quintela;6;0;0;1;0;0;0;2;2;0;4;Río Breogán;15,86666667;0,333333333;1;0,5;3;1;2;1;1;1;No titular;Lliga regular;29/9/23;MoraBanc Andorra;Visitant;69;6;Guanyat;True
@@ -5400,7 +5400,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103790;W. Falk;0;0;0;0;0;0;0;0;0;0;0;UCAM Murcia;0,05;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
 103790;D. Sleva;10;4;2;3;2;0;1;2;1;5;12;UCAM Murcia;23,75;0,666666667;0;1;6;1;2;4;0;2;Titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
 103790;F. Flores;2;5;0;1;0;1;0;1;1;-2;8;UCAM Murcia;13,91666667;0,5;0;0;2;0;0;1;0;0;No titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
-103790;M. Diagne;4;5;0;1;1;0;0;5;6;11;8;UCAM Murcia;20,08333333;0,5;0;0;4;0;0;2;0;0;Titular;Lliga regular;12/5/24;R�o Breog�n;Local;68;7;Guanyat;True
+103790;M. Diagne;4;5;0;1;1;0;0;5;6;11;8;UCAM Murcia;20,08333333;0,5;0;0;4;0;0;2;0;0;Titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
 103790;L. Hakanson;8;2;2;1;2;0;0;1;1;0;7;UCAM Murcia;22,2;0,5;0,4;0;2;5;0;1;2;0;No titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
 103790;D. Jelinek;11;3;2;0;2;0;1;3;1;1;6;UCAM Murcia;15,95;0;0,5;1;2;6;2;0;3;2;No titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
 103790;D. Ennis;12;5;2;3;2;0;0;1;5;3;17;UCAM Murcia;23,3;0,2;0,6;0,5;5;5;2;1;3;1;Titular;Lliga regular;12/5/24;Río Breogán;Local;68;7;Guanyat;True
@@ -5410,9 +5410,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103790;M. Rudan;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;False
 103790;B. McLemore;11;2;1;1;4;0;0;3;4;-12;3;Río Breogán;22,05;0,428571429;0,2;0,666666667;7;5;3;3;1;2;Titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
 103790;M. Jogela;9;8;1;0;1;1;0;2;0;-6;14;Río Breogán;23,9;1;0,333333333;0;3;3;0;3;1;0;Titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
-103790;S. García;5;5;2;0;2;0;0;2;1;-5;7;R�o Breog�n;18,41666667;0;0,333333333;1;0;3;2;0;1;2;Titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
+103790;S. García;5;5;2;0;2;0;0;2;1;-5;7;Río Breogán;18,41666667;0;0,333333333;1;0;3;2;0;1;2;Titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
 103790;J. Sakho;9;4;0;0;4;2;0;2;1;-7;8;Río Breogán;23,66666667;0,75;0,5;0;4;2;0;3;1;0;Titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
-103790;J. Fernández;4;3;0;0;2;0;0;1;1;0;3;R�o Breog�n;17,58333333;0,666666667;0;0;3;0;1;2;0;0;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
+103790;J. Fernández;4;3;0;0;2;0;0;1;1;0;3;Río Breogán;17,58333333;0,666666667;0;0;3;0;1;2;0;0;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
 103790;E. Quintela;2;0;0;0;1;0;0;3;0;-1;-3;Río Breogán;3,95;0,5;0;0;2;0;0;1;0;0;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
 103790;M. Diouf;3;1;0;0;0;0;0;1;1;-1;1;Río Breogán;3,75;0,5;0;0,5;2;1;2;1;0;1;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
 103790;S. Quintela;0;3;0;1;1;0;0;1;1;1;-3;Río Breogán;18,05;0;0;0;5;1;0;0;0;0;No titular;Lliga regular;12/5/24;UCAM Murcia;Visitant;61;-7;Perdut;True
@@ -5662,10 +5662,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103801;M. Rudan;0;0;0;0;1;0;0;1;0;-8;-2;Río Breogán;6,5;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
 103801;M. Jogela;5;3;1;1;1;0;1;2;1;-7;0;Río Breogán;18,9;0,5;0;0,5;4;4;2;2;0;1;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
 103801;S. Momirov;10;5;0;0;1;0;0;2;1;-4;8;Río Breogán;25,38333333;0;0,428571429;1;1;7;1;0;3;1;Titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
-103801;S. García;0;0;0;0;0;0;0;0;0;0;0;R�o Breog�n;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;False
+103801;S. García;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;False
 103801;A. Ventura;2;2;0;1;2;0;0;0;1;-8;2;Río Breogán;5,6;1;0;0;1;0;2;1;0;0;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
 103801;M. Sajus;21;5;1;0;2;2;1;2;7;-1;24;Río Breogán;30,16666667;0,538461538;0;0,875;13;0;8;7;0;7;Titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
-103801;J. Fernández;6;2;2;2;0;0;0;1;3;-6;11;R�o Breog�n;14,81666667;0,5;0;0,8;2;1;5;1;0;4;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
+103801;J. Fernández;6;2;2;2;0;0;0;1;3;-6;11;Río Breogán;14,81666667;0,5;0;0,8;2;1;5;1;0;4;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
 103801;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;False
 103801;C. Frankamp;0;0;3;0;1;0;0;3;0;-1;-5;Río Breogán;20,2;0;0;0;3;1;0;0;0;0;Titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
 103801;S. Quintela;10;3;7;0;3;0;1;0;5;-1;17;Río Breogán;27,98333333;0,5;0,5;0,75;4;2;4;2;1;3;No titular;Lliga regular;17/12/23;UCAM Murcia;Local;74;-9;Perdut;True
@@ -5677,7 +5677,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103801;D. Sleva;10;3;0;3;0;1;0;4;1;12;10;UCAM Murcia;22,53333333;1;0,333333333;0;2;6;0;2;2;0;Titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
 103801;J. Sakho;7;6;0;0;2;0;1;3;5;11;8;UCAM Murcia;19,1;0,5;0;0,5;6;0;2;3;0;1;No titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
 103801;M. Todorovic;0;0;0;0;0;0;0;0;0;-4;0;UCAM Murcia;1,6;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
-103801;M. Diagne;3;3;1;0;1;0;0;3;3;3;4;UCAM Murcia;15,61666667;0,5;0;0,5;2;0;2;1;0;1;Titular;Lliga regular;17/12/23;R�o Breog�n;Visitant;83;9;Guanyat;True
+103801;M. Diagne;3;3;1;0;1;0;0;3;3;3;4;UCAM Murcia;15,61666667;0,5;0;0,5;2;0;2;1;0;1;Titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
 103801;D. Jelinek;5;1;1;0;1;0;0;2;0;0;3;UCAM Murcia;12,26666667;1;0,5;0;1;2;0;1;1;0;No titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
 103801;D. Ennis;16;2;6;0;3;0;1;0;2;4;17;UCAM Murcia;25,41666667;0,5;0,75;0,5;6;4;2;3;3;1;Titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
 103801;A. Kurucs;11;0;0;1;1;0;0;2;0;3;8;UCAM Murcia;19,61666667;1;0,75;0;1;4;0;1;3;0;No titular;Lliga regular;17/12/23;Río Breogán;Visitant;83;9;Guanyat;True
@@ -5830,7 +5830,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103808;S. Momirov;25;7;2;1;4;0;0;1;1;-2;21;Río Breogán;36,16666667;1;0,357142857;0;5;14;1;5;5;0;Titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
 103808;A. Ventura;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;False
 103808;M. Sajus;8;2;0;0;3;1;1;3;1;-13;3;Río Breogán;20,53333333;0,666666667;0;0;6;0;0;4;0;0;Titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
-103808;J. Fernández;6;0;0;0;0;0;0;5;3;5;0;R�o Breog�n;13,06666667;1;0;0,5;2;2;4;2;0;2;No titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
+103808;J. Fernández;6;0;0;0;0;0;0;5;3;5;0;Río Breogán;13,06666667;1;0;0,5;2;2;4;2;0;2;No titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
 103808;E. Quintela;2;2;1;1;0;0;0;1;1;-1;6;Río Breogán;5,85;0;0;1;0;0;2;0;0;2;No titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
 103808;C. Frankamp;0;0;3;0;0;0;0;1;1;3;1;Río Breogán;8,9;0;0;0;0;2;0;0;0;0;No titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
 103808;S. Quintela;19;3;6;2;1;0;0;2;9;-4;27;Río Breogán;30,98333333;0,428571429;0,333333333;0,875;7;6;8;3;2;7;Titular;Lliga regular;23/12/23;Monbus Obradoiro;Local;88;-2;Perdut;True
@@ -5843,10 +5843,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103808;A. Pustovyi;14;3;1;0;2;1;0;5;8;12;16;Monbus Obradoiro;22,51666667;0,571428571;0;0,857142857;7;0;7;4;0;6;Titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
 103808;R. Mendoza;11;1;0;1;1;0;0;1;0;-5;11;Monbus Obradoiro;14,15;1;1;0;4;1;0;4;1;0;No titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
 103808;R. Guerrero;0;0;0;0;0;0;1;0;0;0;-3;Monbus Obradoiro;5,283333333;0;0;0;2;0;0;0;0;0;No titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
-103808;A. Muñoz;0;2;0;0;0;0;0;1;1;-9;2;Monbus Obradoiro;11,66666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/12/23;R�o Breog�n;Visitant;90;2;Guanyat;True
+103808;A. Muñoz;0;2;0;0;0;0;0;1;1;-9;2;Monbus Obradoiro;11,66666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
 103808;T. Tinkle;15;6;2;1;1;0;1;3;1;7;16;Monbus Obradoiro;32;0,833333333;0,25;1;6;4;2;5;1;2;Titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
 103808;O. Kovliar;7;1;1;1;3;0;0;5;2;2;1;Monbus Obradoiro;15;0,5;0,333333333;1;2;3;2;1;1;2;No titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
-103808;A. Suárez;0;0;0;0;1;0;0;2;0;-5;-4;Monbus Obradoiro;7,866666667;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;23/12/23;R�o Breog�n;Visitant;90;2;Guanyat;True
+103808;A. Suárez;0;0;0;0;1;0;0;2;0;-5;-4;Monbus Obradoiro;7,866666667;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;23/12/23;Río Breogán;Visitant;90;2;Guanyat;True
 103809;T. Bell-Haynes;19;2;13;0;0;0;1;2;5;1;31;Casademont Zaragoza;29,41666667;0,625;0,333333333;1;8;3;6;5;1;6;Titular;Lliga regular;10/12/23;Barça;Local;101;2;Guanyat;True
 103809;L. Langarita;5;2;1;1;1;0;1;2;1;-4;-1;Casademont Zaragoza;15,61666667;0,2;0,5;0;5;2;2;1;1;0;No titular;Lliga regular;10/12/23;Barça;Local;101;2;Guanyat;True
 103809;M. González;2;5;0;2;1;0;0;1;0;5;5;Casademont Zaragoza;27,8;1;0;0;1;2;0;1;0;0;Titular;Lliga regular;10/12/23;Barça;Local;101;2;Guanyat;True
@@ -5945,10 +5945,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103813;B. McLemore;12;1;0;1;2;1;0;4;2;3;8;Río Breogán;20,46666667;0,5;0,6;1;2;5;1;1;3;1;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
 103813;M. Jogela;0;2;3;0;1;0;0;1;0;2;1;Río Breogán;9,8;0;0;0;1;1;0;0;0;0;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
 103813;S. Momirov;10;8;0;0;0;0;0;2;4;15;16;Río Breogán;27,88333333;0,333333333;0,5;1;3;4;2;1;2;2;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
-103813;S. García;22;3;5;2;4;1;0;3;5;6;23;R�o Breog�n;30;0,666666667;0,285714286;1;9;7;4;6;2;4;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
+103813;S. García;22;3;5;2;4;1;0;3;5;6;23;Río Breogán;30;0,666666667;0,285714286;1;9;7;4;6;2;4;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
 103813;A. Ventura;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;False
 103813;M. Sajus;16;7;0;0;0;1;0;1;5;17;26;Río Breogán;29,38333333;0,714285714;0;1;7;0;6;5;0;6;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
-103813;J. Fernández;6;1;2;0;0;2;0;1;0;-9;8;R�o Breog�n;14,53333333;0,75;0;0;4;1;0;3;0;0;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
+103813;J. Fernández;6;1;2;0;0;2;0;1;0;-9;8;Río Breogán;14,53333333;0,75;0;0;4;1;0;3;0;0;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
 103813;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;False
 103813;S. Quintela;6;0;3;1;3;0;0;3;3;5;6;Río Breogán;17,4;0,666666667;0;1;3;0;2;2;0;2;No titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
 103813;T. Nakic;5;4;2;3;0;0;0;1;0;11;11;Río Breogán;26,91666667;0,5;0,5;0;2;2;0;1;1;0;Titular;Lliga regular;7/1/24;Coviran Granada;Local;85;6;Guanyat;True
@@ -5956,11 +5956,11 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103813;J. Rousselle;5;1;3;0;1;0;0;4;0;-4;3;Coviran Granada;18,43333333;1;0,5;0;1;2;0;1;1;0;Titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
 103813;K. Cheatham;9;4;4;1;3;0;0;2;1;3;7;Coviran Granada;35,9;0,333333333;0,333333333;0,5;3;6;2;1;2;1;Titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
 103813;A. Konontsuk;2;0;0;0;0;0;0;1;0;-9;1;Coviran Granada;4,1;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
-103813;G. Martínez;0;0;0;0;0;0;0;0;0;0;0;Coviran Granada;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/1/24;R�o Breog�n;Visitant;79;-6;Perdut;False
+103813;G. Martínez;0;0;0;0;0;0;0;0;0;0;0;Coviran Granada;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;False
 103813;E. Kairys;2;2;0;0;1;0;0;4;2;-4;0;Coviran Granada;12,6;0;0;1;1;0;2;0;0;2;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
-103813;C. Díaz;0;0;1;0;0;0;0;1;0;7;-1;Coviran Granada;11,61666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;7/1/24;R�o Breog�n;Visitant;79;-6;Perdut;True
+103813;C. Díaz;0;0;1;0;0;0;0;1;0;7;-1;Coviran Granada;11,61666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
 103813;L. Costa;12;0;3;2;2;0;1;0;4;-6;13;Coviran Granada;27,21666667;0;0,4;1;2;5;6;0;2;6;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
-103813;P. Tomàs;2;1;0;0;0;0;1;1;0;-7;-1;Coviran Granada;9,25;0,333333333;0;0;3;0;0;1;0;0;Titular;Lliga regular;7/1/24;R�o Breog�n;Visitant;79;-6;Perdut;True
+103813;P. Tomàs;2;1;0;0;0;0;1;1;0;-7;-1;Coviran Granada;9,25;0,333333333;0;0;3;0;0;1;0;0;Titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
 103813;D. Iriarte;0;0;0;0;0;0;0;0;0;0;0;Coviran Granada;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;False
 103813;J. Thomasson;11;4;2;1;3;0;0;4;3;-14;10;Coviran Granada;29,95;0,8;0;0,75;5;2;4;4;0;3;Titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
 103813;D. Kramer;19;7;0;0;0;0;0;1;6;6;26;Coviran Granada;23,53333333;0,714285714;1;0,666666667;7;1;9;5;1;6;No titular;Lliga regular;7/1/24;Río Breogán;Visitant;79;-6;Perdut;True
@@ -6110,11 +6110,11 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103820;A. Albicy;7;2;6;2;3;0;0;2;2;22;12;Dreamland Gran Canaria;27,76666667;0;0,666666667;0,5;0;3;2;0;2;1;Titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;R. Prkacin;3;1;0;0;1;0;0;2;1;-2;-2;Dreamland Gran Canaria;9,25;0,333333333;0;0,5;3;1;2;1;0;1;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;N. Brussino;8;1;1;3;1;0;0;2;2;26;8;Dreamland Gran Canaria;16,83333333;0,5;0,4;0;2;5;0;1;2;0;Titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
-103820;M. Salvó;9;1;0;1;0;0;2;0;4;0;10;Dreamland Gran Canaria;23,16666667;0,4;1;1;5;1;2;2;1;2;No titular;Lliga regular;30/12/23;R�o Breog�n;Local;86;26;Guanyat;True
+103820;M. Salvó;9;1;0;1;0;0;2;0;4;0;10;Dreamland Gran Canaria;23,16666667;0,4;1;1;5;1;2;2;1;2;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;P. Pelos;0;3;0;1;0;1;0;2;1;5;3;Dreamland Gran Canaria;11,11666667;0;0;0;1;0;0;0;0;0;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;J. Shurna;13;2;0;0;2;0;0;1;2;26;10;Dreamland Gran Canaria;18,11666667;0;0,666666667;0,5;1;6;2;0;4;1;Titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;S. Landesberg;8;2;2;2;0;0;0;2;1;11;10;Dreamland Gran Canaria;13,6;0,666666667;0,5;0,5;3;2;2;2;1;1;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
-103820;R. López;0;1;0;1;0;0;0;0;0;-6;2;Dreamland Gran Canaria;3,333333333;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;30/12/23;R�o Breog�n;Local;86;26;Guanyat;True
+103820;R. López;0;1;0;1;0;0;0;0;0;-6;2;Dreamland Gran Canaria;3,333333333;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;E. Happ;14;11;3;0;0;0;2;1;4;20;22;Dreamland Gran Canaria;24,58333333;0,5;0;0,666666667;10;0;6;5;0;4;Titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;B. Lammers;7;2;0;2;0;2;0;1;2;9;13;Dreamland Gran Canaria;13,6;0,5;1;1;2;1;2;1;1;2;No titular;Lliga regular;30/12/23;Río Breogán;Local;86;26;Guanyat;True
 103820;A. Polite;8;3;0;1;3;1;0;3;2;-20;8;Río Breogán;18,38333333;0,75;0;1;4;0;2;3;0;2;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
@@ -6122,10 +6122,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103820;B. McLemore;7;3;0;2;2;0;1;3;1;-3;0;Río Breogán;21,11666667;0,4;0,2;0;5;5;0;2;1;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;M. Jogela;2;2;0;0;1;2;0;1;0;-9;1;Río Breogán;12;0,5;0;0;2;2;0;1;0;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;S. Momirov;3;1;0;0;1;0;0;1;0;-21;-3;Río Breogán;17,96666667;0;0,2;0;1;5;0;0;1;0;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
-103820;S. García;5;1;2;0;0;0;1;1;1;-14;2;R�o Breog�n;16,15;0,5;0,2;0;2;5;0;1;1;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
+103820;S. García;5;1;2;0;0;0;1;1;1;-14;2;Río Breogán;16,15;0,5;0,2;0;2;5;0;1;1;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;A. Ventura;0;1;0;1;1;0;0;1;0;-5;-1;Río Breogán;15,33333333;0;0;0;0;1;0;0;0;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;M. Sajus;8;6;2;0;1;0;0;2;3;-22;16;Río Breogán;19,76666667;1;0;1;2;0;4;2;0;4;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
-103820;J. Fernández;5;3;1;0;5;0;1;1;3;-16;0;R�o Breog�n;17,78333333;0,4;0;0,5;5;1;2;2;0;1;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
+103820;J. Fernández;5;3;1;0;5;0;1;1;3;-16;0;Río Breogán;17,78333333;0,4;0;0,5;5;1;2;2;0;1;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;E. Quintela;2;0;0;0;1;0;0;0;1;8;2;Río Breogán;5,95;1;0;0;1;0;0;1;0;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;S. Quintela;0;2;2;3;3;0;1;2;2;-19;0;Río Breogán;18,7;0;0;0;2;1;0;0;0;0;Titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
 103820;T. Nakic;8;1;0;0;1;0;0;1;1;-5;7;Río Breogán;18,05;1;0,666666667;0;1;3;0;1;2;0;No titular;Lliga regular;30/12/23;Dreamland Gran Canaria;Visitant;60;-26;Perdut;True
@@ -6587,7 +6587,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103840;Q. Colom;10;3;1;0;2;0;0;0;3;13;10;Bàsquet Girona;11,58333333;0;0,4;0,666666667;0;5;6;0;2;4;No titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
 103840;G. Goloman;11;4;0;1;1;0;1;3;2;11;9;Bàsquet Girona;17,83333333;0,4;0,5;1;5;2;4;2;1;4;No titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
 103840;M. Brown;8;0;1;1;3;0;0;2;2;-22;3;Bàsquet Girona;12,78333333;1;0,4;0;1;5;1;1;2;0;Titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
-103840;S. Martínez;4;8;0;0;1;0;1;2;1;0;8;Bàsquet Girona;28,28333333;0,666666667;0;0;3;0;0;2;0;0;Titular;Lliga regular;18/11/23;R�o Breog�n;Local;87;4;Guanyat;True
+103840;S. Martínez;4;8;0;0;1;0;1;2;1;0;8;Bàsquet Girona;28,28333333;0,666666667;0;0;3;0;0;2;0;0;Titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
 103840;M. Susinskas;6;4;1;0;0;1;1;1;2;7;10;Bàsquet Girona;14,61666667;0;0,666666667;0;1;3;0;0;2;0;No titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
 103840;J. Sorolla;2;3;0;0;0;0;1;1;0;-4;1;Bàsquet Girona;7,383333333;0,333333333;0;0;3;0;0;1;0;0;Titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
 103840;S. Djordjevic;12;3;0;1;1;0;0;2;1;-3;13;Bàsquet Girona;14,78333333;0,833333333;0;1;6;0;2;5;0;2;No titular;Lliga regular;18/11/23;Río Breogán;Local;87;4;Guanyat;True
@@ -6596,9 +6596,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103840;M. Rudan;0;1;1;0;1;0;0;2;0;-16;-3;Río Breogán;6,583333333;0;0;0;1;1;0;0;0;0;No titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
 103840;M. Jogela;5;4;2;0;4;1;1;1;1;-6;5;Río Breogán;12,36666667;0;1;1;2;1;2;0;1;2;No titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
 103840;S. Momirov;16;3;1;1;0;0;0;1;0;5;15;Río Breogán;34,46666667;0;0,714285714;1;3;7;1;0;5;1;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
-103840;S. García;11;3;3;0;4;0;0;2;1;-7;6;R�o Breog�n;19,8;0;0,428571429;1;2;7;2;0;3;2;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
+103840;S. García;11;3;3;0;4;0;0;2;1;-7;6;Río Breogán;19,8;0;0,428571429;1;2;7;2;0;3;2;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
 103840;M. Sajus;9;6;0;1;2;3;0;2;3;0;16;Río Breogán;13,53333333;0,75;0;0,75;4;0;4;3;0;3;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
-103840;J. Fernández;10;5;2;0;3;3;0;3;4;3;15;R�o Breog�n;24,36666667;0,8;0;1;5;2;2;4;0;2;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
+103840;J. Fernández;10;5;2;0;3;3;0;3;4;3;15;Río Breogán;24,36666667;0,8;0;1;5;2;2;4;0;2;Titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
 103840;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;False
 103840;C. Frankamp;0;0;1;0;1;0;0;2;0;-7;-2;Río Breogán;3,7;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
 103840;M. Diouf;8;1;0;0;1;1;0;2;2;-5;5;Río Breogán;14,16666667;0,6;0;0,666666667;5;1;3;3;0;2;No titular;Lliga regular;18/11/23;Bàsquet Girona;Visitant;83;-4;Perdut;True
@@ -6750,16 +6750,16 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103847;M. Rudan;5;5;2;0;0;0;1;3;5;-5;10;Río Breogán;15,75;0,666666667;0;0,333333333;3;0;3;2;0;1;No titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;M. Jogela;14;6;1;2;1;0;0;1;3;9;18;Río Breogán;26,9;0,666666667;0,5;0,5;6;2;6;4;1;3;No titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;S. Momirov;8;1;1;0;1;0;0;2;0;5;5;Río Breogán;22,06666667;1;0,5;0;1;4;0;1;2;0;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
-103847;S. García;10;5;5;2;1;0;0;1;5;2;19;R�o Breog�n;28,36666667;0,75;0;0,666666667;4;3;6;3;0;4;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
+103847;S. García;10;5;5;2;1;0;0;1;5;2;19;Río Breogán;28,36666667;0,75;0;0,666666667;4;3;6;3;0;4;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;M. Sajus;4;2;1;0;2;0;2;0;2;-3;1;Río Breogán;16,43333333;0;0;1;4;0;4;0;0;4;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
-103847;J. Fernández;6;2;0;1;1;0;1;3;2;3;2;R�o Breog�n;17,65;0,25;0,5;1;4;2;1;1;1;1;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
+103847;J. Fernández;6;2;0;1;1;0;1;3;2;3;2;Río Breogán;17,65;0,25;0,5;1;4;2;1;1;1;1;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;E. Quintela;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;False
 103847;C. Frankamp;6;0;3;0;0;0;1;0;0;-3;5;Río Breogán;15,85;0;0,666666667;0;2;3;0;0;2;0;No titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;M. Diouf;11;8;0;1;3;1;1;3;3;10;13;Río Breogán;18,38333333;0,571428571;0;0,75;7;0;4;4;0;3;No titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;S. Quintela;4;3;1;0;1;0;0;3;2;0;4;Río Breogán;10,93333333;0,5;0;1;2;1;2;1;0;2;Titular;Lliga regular;26/11/23;Casademont Zaragoza;Local;82;5;Guanyat;True
 103847;T. Bell-Haynes;20;1;2;2;3;1;0;2;6;5;21;Casademont Zaragoza;28,63333333;0,6;0,5;0,833333333;5;6;6;3;3;5;Titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;L. Langarita;0;1;0;0;1;0;0;2;0;-3;-3;Casademont Zaragoza;17,51666667;0;0;0;1;0;0;0;0;0;Titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
-103847;M. González;0;2;0;0;0;0;0;1;0;-3;1;Casademont Zaragoza;12,55;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;R�o Breog�n;Visitant;77;-5;Perdut;True
+103847;M. González;0;2;0;0;0;0;0;1;0;-3;1;Casademont Zaragoza;12,55;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;D. Kravic;8;4;0;1;0;1;0;1;1;-5;12;Casademont Zaragoza;18,23333333;0,666666667;0;0;6;0;0;4;0;0;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;T. Gielo;3;5;1;1;0;0;1;3;1;-4;0;Casademont Zaragoza;16,95;0;0,2;0;3;5;0;0;1;0;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;M. Smith;19;7;3;1;3;1;1;3;0;0;13;Casademont Zaragoza;33,28333333;0,272727273;0,571428571;1;11;7;1;3;4;1;Titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
@@ -6767,7 +6767,7 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103847;A. Cinciarini;5;0;1;0;1;0;0;1;2;-10;6;Casademont Zaragoza;11,36666667;0;1;1;0;1;2;0;1;2;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;T. McFadden;9;0;0;0;1;0;0;3;3;-7;5;Casademont Zaragoza;19,41666667;0;0,4;1;0;5;3;0;2;3;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103847;A. Moreno;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;False
-103847;Y. Traoré;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;R�o Breog�n;Visitant;77;-5;Perdut;False
+103847;Y. Traoré;0;0;0;0;0;0;0;0;0;0;0;Casademont Zaragoza;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;False
 103847;M. Watt;6;3;1;2;2;2;0;4;3;2;10;Casademont Zaragoza;20,28333333;0,666666667;0;1;3;0;2;2;0;2;Titular;Lliga regular;26/11/23;Río Breogán;Visitant;77;-5;Perdut;True
 103848;M. Andric;9;3;0;1;2;0;1;3;0;-10;5;MoraBanc Andorra;21,25;0;0,6;0;0;5;0;0;3;0;Titular;Lliga regular;3/3/24;Real Madrid;Local;70;-19;Perdut;True
 103848;T. Pérez;8;7;0;0;1;1;1;1;2;-10;11;MoraBanc Andorra;28,36666667;0,8;0;0;5;1;2;4;0;0;Titular;Lliga regular;3/3/24;Real Madrid;Local;70;-19;Perdut;True
@@ -6929,10 +6929,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103854;M. Rudan;6;1;1;0;2;0;0;2;2;6;4;Río Breogán;9,016666667;1;0;0;3;2;0;3;0;0;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;M. Jogela;9;4;2;0;1;1;0;2;1;12;9;Río Breogán;21,91666667;0,428571429;0,5;0;7;2;0;3;1;0;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;S. Momirov;14;2;1;2;0;0;0;0;0;1;14;Río Breogán;34,9;0,5;0,5;0;2;8;0;1;4;0;Titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
-103854;S. García;0;0;0;0;0;0;0;0;0;0;0;R�o Breog�n;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;False
+103854;S. García;0;0;0;0;0;0;0;0;0;0;0;Río Breogán;0;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;False
 103854;A. Ventura;7;2;0;0;1;0;0;2;1;-1;6;Río Breogán;16,43333333;1;0,5;1;1;2;2;1;1;2;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;M. Sajus;5;3;0;0;0;0;4;2;2;-13;-2;Río Breogán;16,26666667;0,166666667;0;0,75;6;0;4;1;0;3;Titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
-103854;J. Fernández;6;11;3;1;2;3;2;3;4;25;16;R�o Breog�n;25,28333333;0,4;0;1;5;2;2;2;0;2;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
+103854;J. Fernández;6;11;3;1;2;3;2;3;4;25;16;Río Breogán;25,28333333;0,4;0;1;5;2;2;2;0;2;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;E. Quintela;0;0;1;1;0;0;0;0;0;2;2;Río Breogán;0,666666667;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;C. Frankamp;7;1;3;0;0;0;0;1;0;-14;7;Río Breogán;16,36666667;1;0,25;0;2;4;0;2;1;0;Titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
 103854;S. Quintela;7;3;8;3;1;0;1;2;6;18;18;Río Breogán;25,83333333;0,428571429;0;1;7;1;1;3;0;1;No titular;Lliga regular;9/12/23;Surne Bilbao Basket;Visitant;76;8;Guanyat;True
@@ -7034,9 +7034,9 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103859;I. Diagne;5;3;0;0;1;1;1;0;3;1;8;Real Madrid;8,416666667;0;0;0,833333333;1;0;6;0;0;5;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;A. Abalde;2;1;6;0;1;0;0;2;0;21;4;Real Madrid;22,15;0,5;0;0;2;1;0;1;0;0;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;F. Campazzo;3;2;1;0;0;0;0;2;2;6;3;Real Madrid;7,6;0,5;0;0,5;2;1;2;1;0;1;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
-103859;H. González;12;3;1;0;2;0;0;3;3;3;12;Real Madrid;14,21666667;0,5;0,666666667;1;2;3;4;1;2;4;No titular;Lliga regular;3/12/23;R�o Breog�n;Local;91;33;Guanyat;True
+103859;H. González;12;3;1;0;2;0;0;3;3;3;12;Real Madrid;14,21666667;0,5;0,666666667;1;2;3;4;1;2;4;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;M. Hezonja;11;6;2;1;2;0;1;3;4;15;14;Real Madrid;16,2;0,5;0;1;4;2;7;2;0;7;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
-103859;C. Alocén;10;2;2;2;3;0;0;0;3;19;10;Real Madrid;20,66666667;0,6;0,25;0,5;5;4;2;3;1;1;Titular;Lliga regular;3/12/23;R�o Breog�n;Local;91;33;Guanyat;True
+103859;C. Alocén;10;2;2;2;3;0;0;0;3;19;10;Real Madrid;20,66666667;0,6;0,25;0,5;5;4;2;3;1;1;Titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;V. Poirier;4;7;0;1;0;2;0;1;1;23;11;Real Madrid;16,68333333;0,5;0;0;4;1;0;2;0;0;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;E. Tavares;4;5;0;0;0;2;0;3;2;9;10;Real Madrid;14,8;1;0;1;1;0;2;1;0;2;Titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
 103859;S. Llull;6;0;4;1;0;0;0;1;2;14;9;Real Madrid;14,91666667;0;0,4;0;0;5;0;0;2;0;No titular;Lliga regular;3/12/23;Río Breogán;Local;91;33;Guanyat;True
@@ -7047,10 +7047,10 @@ id_partit;nom;punts;rebots;assistencies;recuperacions;perdues;taps;taps_rebuts;f
 103859;M. Rudan;4;4;4;1;1;1;0;5;2;-27;6;Río Breogán;25,46666667;0,5;0;1;2;3;2;1;0;2;No titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;M. Jogela;6;3;0;0;1;0;1;0;2;-30;2;Río Breogán;19,48333333;0,428571429;0;0;7;2;1;3;0;0;No titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;S. Momirov;0;1;3;1;0;0;0;1;0;-13;-5;Río Breogán;26,16666667;0;0;0;2;6;1;0;0;0;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
-103859;S. García;0;0;0;1;0;0;0;0;0;4;-1;R�o Breog�n;2,683333333;0;0;0;1;1;0;0;0;0;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
+103859;S. García;0;0;0;1;0;0;0;0;0;4;-1;Río Breogán;2,683333333;0;0;0;1;1;0;0;0;0;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;A. Ventura;3;4;0;1;0;0;0;2;0;-5;4;Río Breogán;12,03333333;0;0,333333333;0;0;3;0;0;1;0;No titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;M. Sajus;2;3;0;0;1;0;0;3;0;-12;-2;Río Breogán;11,88333333;0,25;0;0;4;0;0;1;0;0;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
-103859;J. Fernández;19;7;0;1;3;0;1;4;8;-11;18;R�o Breog�n;27,93333333;0,714285714;0,4;0,428571429;7;5;7;5;2;3;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
+103859;J. Fernández;19;7;0;1;3;0;1;4;8;-11;18;Río Breogán;27,93333333;0,714285714;0,4;0,428571429;7;5;7;5;2;3;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;E. Quintela;8;1;1;2;0;0;1;2;0;-11;6;Río Breogán;19,61666667;0,666666667;0;0;6;1;0;4;0;0;Titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;C. Frankamp;1;0;0;0;1;0;1;0;0;-13;-6;Río Breogán;11,66666667;0;0;1;2;3;1;0;0;1;No titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True
 103859;S. Quintela;0;0;0;1;0;0;0;3;0;-9;-2;Río Breogán;10,8;0;0;0;0;0;0;0;0;0;No titular;Lliga regular;3/12/23;Real Madrid;Visitant;58;-33;Perdut;True

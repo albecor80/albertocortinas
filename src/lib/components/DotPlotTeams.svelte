@@ -65,8 +65,9 @@
         .attr('y', 40)
         .attr('fill', 'black')
         .attr('text-anchor', 'middle')
-        .attr('font-size', '1.5em')
-        .text('POINTS AGAINST');
+        .attr('font-size', '2em')
+        .attr('class', 'font-baskerville italic') // Tailwind classes
+        .text('points received');
         chart.selectAll('.domain').remove();
         chart.selectAll('.x-axis .tick line')
             .attr('stroke', '#808080');
@@ -80,9 +81,10 @@
         .attr('y', -50)
         .attr('fill', 'black')
         .attr('text-anchor', 'middle')
-        .attr('font-size', '1.5em')
+        .attr('font-size', '2em')
+        .attr('class', 'font-baskerville italic') // Tailwind classes
 
-        .text('POINTS');
+        .text('points made');
         chart.selectAll('.domain').remove();
 
 

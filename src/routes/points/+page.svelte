@@ -4,7 +4,6 @@
     import punts_equips from '$lib/data/equips_punts';
     import DotPlotTeams from '$lib/components/DotPlotTeams.svelte';
     import { onMount } from 'svelte';
-	import Titulo from '$lib/components/Titulo.svelte';
  
     /**
      * @type {string | null}
@@ -35,29 +34,14 @@
 
 </script>
 
-<header class="container mx-auto top-0 h-10 flex mb-4 w-full">
-<nav class="bg-white w-full flex flex-col">
-    <div class="container mx-auto px-6 flex items-center justify-between">
-        <div class="flex mx-auto items-center space-x-8">
-            <div class="flex space-x-6">
-                <a href="/teams" class="menu-link tracking-widest  text-center p-4 w-36 text-slate-700">WINS/LOSSES</a>
-                <a href="/teams/points" class="menu-link tracking-widest text-center p-4 w-36 text-slate-700">POINTS</a>
-            </div>
-            <div class="flex space-x-6">
-                <a href="/about" class="menu-link tracking-widest  text-center p-4 w-36 text-slate-700">ABOUT</a>
-                <a href="/contact" class="menu-link tracking-widest  text-center p-4 w-36 text-slate-700">CONTACT</a>
-            </div>
-        </div>
-    </div>
-    <div class="bg-turquoise h-px"></div>
-    <div class="bg-turquoise h-px"></div>
-</nav>
-</header>
 
 
-<div class="flex flex-col  items-ceter justify-center">
-    <div class="flex mx-auto flex-col items-ceter justify-center">
-        <Titulo titulo="Good offenses win basketball matches, good defenses win championchips." subtitulo="Vertical axis represents points made by the team and horizontal one the points received by each team. " />
+<div class="relative h-screen">
+    
+    <div class="flex flex-col items-center text-center justify-center py-8 px-4">
+      <h1 class="text-8xl text-gray-800 font-bebas">Points made vs Points received</h1>
+      <h2 class="text-2xl text-gray-400 italic font-baskerville">Good offenses win basketball matches, good defenses win championchips.</h2>
+      <div class="flex mt-4 pt-1 pl-1 flex-col h-full">
         <div class="flex items-center justify-center">
             {#if punts_equips}
             <DotPlotTeams series={punts_equips} />
@@ -68,5 +52,23 @@
         </div>
     </div>
 
+    
+    </div>
+ 
+    <!-- Navigation Buttons -->
+    <a
+        href="/season"
+        class="absolute top-1/2 left-4 transform -translate-y-1/2 h-12 w-12 bg-gray-200 hover:bg-gray-300 flex items-center justify-center rounded-full shadow-md"
+        aria-label="Previous Page"
+    >
+        <span class="text-black font-bold text-lg">❮</span>
+    </a>
 
+    <a
+        href="/teams"
+        class="absolute top-1/2 right-4 transform -translate-y-1/2 h-12 w-12 bg-gray-200 hover:bg-gray-300 flex items-center justify-center rounded-full shadow-md"
+        aria-label="Next Page"
+    >
+        <span class="text-black font-bold text-lg">❯</span>
+    </a>
 </div>

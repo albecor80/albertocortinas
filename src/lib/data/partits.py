@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 df = pd.read_csv('raw/partits.csv',sep=";")
-
+df_players = pd.read_csv('raw/players.csv',sep=";")
 df_melted = pd.melt(
     df,
     id_vars = ['id_partit', 'jornada'],
@@ -84,19 +84,48 @@ def calcular_punts_equips(df):
     result_json = equip_stats.to_json(orient="records")
     return result_json
 
+import json
+
+
 def calculate_stats_team(df):
     '''
-    calcula les estadístiques per equip
+    Calcula les estadístiques per equip
     '''
 
+    # Load the JSON data
+    with open('equips.json', 'r', encoding='utf-8') as file:
+        equips_data = json.load(file)
+    nom_to_id = {team['nom']: team['id'] for team in equips_data}
 
+    # Aggregate the necessary columns by 'equip'
+    df_agg = df.groupby('equip').agg({
+        'madeT2': 'sum',
+        'numT2': 'sum',
+        'madeT3': 'sum',
+        'numT3': 'sum',
+        'madeTL': 'sum',
+        'numTL': 'sum'
+    }).reset_index()
+    
+    # Calculate percentages
+    df_agg['perc_TL'] = df_agg['madeTL'] / df_agg['numTL']
+    df_agg['perc_T2'] = df_agg['madeT2'] / df_agg['numT2']
+    df_agg['perc_T3'] = df_agg['madeT3'] / df_agg['numT3']
+    df_agg['perc_TL'] = round(df_agg['perc_TL'] * 100, 0)
+    df_agg['perc_T2'] = round(df_agg['perc_T2'] * 100, 0)
+    df_agg['perc_T3'] = round(df_agg['perc_T3'] * 100, 0)
 
-    # Agrupar por equipo para sumar puntos hechos y recibidos
-    equip_stats = df.groupby("equip").sum().reset_index()
-    print(equip_stats.loc[:,['T2']].head())
-    #result_json = equip_stats.to_json(orient="records")
-    #return result_json
-
+    # Replace infinite values with 0 in place
+    df_agg.replace([float('inf'), -float('inf')], 0, inplace=True)
+    
+    # Fill NaN values with 0 in place
+    df_agg.fillna(0, inplace=True)
+    df_agg['id'] = df_agg['equip'].map(nom_to_id)
+    df_agg.drop(['equip','madeT2', 'madeTL','madeT3','numT2', 'numTL','numT3'], axis=1, inplace=True)
+    
+    # Save the JSON data
+    df_agg.to_json('stats_team.json', orient='records')
+    
 
             
 '''
@@ -115,4 +144,4 @@ with open('punts.json', 'w') as f:
 
 
 '''
-calculate_stats_team(df_melted)
+calculate_stats_team(df_players)
