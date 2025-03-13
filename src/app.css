@@ -1,8 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
-
-@import "tailwindcss";
-
-@theme {
-    --font-figtree: "Figtree", sans-serif;
-    --font-baskerville: "Libre Baskerville", serif;
-}

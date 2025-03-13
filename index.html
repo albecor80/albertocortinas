@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>La Introspectiva</title>
+  <!-- Tailwind CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    html {
+      background-color: white;
+    }
+  </style>
+</head>
+<body class="text-gray-700">
+  <div class="flex flex-col items-center text-center font-baskerville text-md leading-7 mt-16 w-1/2 mx-auto">
+    <p id="greeting">Hola 👋</p>
+    <p class="mt-8">Mi nombre es Alberto Cortinas</p>
+    <p class="mt-8" id="ageText"></p>
+    <p class="mt-8">
+      Soy ingeniero industrial de formación y tras años trabajando en diferentes sectores, actualmente me dedico a realizar proyectos relacionados con datos e inteligencia artificial.
+    </p>
+    <p class="mt-8">
+      Si tuviera que definirme con una sola palabra, sería curioso. Me encanta aprender cosas nuevas y enfrentarme a nuevos retos. Cuando encuentro algo que me gusta especialmente o me llama la atención,
+      tengo la necesidad de investigar y aprender todo lo que pueda sobre ello... ¿cómo se hace? ¿por qué? ¿para qué?
+    </p>
+    <p class="mt-8" id="message"></p>
+    <p class="mt-8">
+      ¿Y cuáles son estos temas? Pues principalmente datos e inteligencia artificial e historia, pero vamos a empezar
+      por el principio: aprender a parar, reflexionar de forma pausada y escribir en mi primer newsletter
+      <a href="https://laintrospectiva.substack.com" class="underline decoration-4 text-rose-400 decoration-rose-400 underline-offset-6">La Introspectiva</a>
+    </p>
+  </div>
+
+  <script>
+    // Define the birthdate (months are 0-indexed, so 9 = October)
+    const fechaNacimiento = new Date(1980, 9, 28);
+    const añoActual = new Date().getFullYear();
+
+    // Function to get today's weekday in Spanish
+    function getTodayWeekday() {
+      const weekdays = ["domingo", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado"];
+      return weekdays[new Date().getDay()];
+    }
+
+    // Function to calculate age based on the birthdate
+    function calcularEdad(fechaNacimiento) {
+      const today = new Date();
+      let age = today.getFullYear() - fechaNacimiento.getFullYear();
+      const monthDiff = today.getMonth() - fechaNacimiento.getMonth();
+      const dayDiff = today.getDate() - fechaNacimiento.getDate();
+      
+      // Si aún no ha pasado su cumpleaños este año, restar 1 a la edad
+      if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
+        age--;
+      }
+      return age;
+    }
+
+    // Compute the dynamic values
+    const edad = calcularEdad(fechaNacimiento);
+    const diaSemana = getTodayWeekday();
+
+    let mensaje;
+    if (añoActual === 2025) {
+      mensaje = "Este año me he propuesto destinar una parte del tiempo que dedico a aprender sobre temas que me interesan (y el que pierdo en cosas inútiles...) a escribir sobre ellos y compartirlo";
+    } else if (añoActual === 2026) {
+      mensaje = "El año pasado me propuse destinar una parte del tiempo que dedico a aprender sobre temas que me interesan (y el que pierdo en cosas inútiles...) a escribir sobre ellos y compartirlo";
+    } else {
+      mensaje = "En 2025 me propuse destinar una parte del tiempo que dedico a aprender sobre temas que me interesan (y el que pierdo en cosas inútiles...) a escribir sobre ellos y compartirlo";
+    }
+
+    // Update the DOM with the computed values
+    document.getElementById('greeting').textContent = `Hola 👋 ¡Feliz ${diaSemana}!`;
+    document.getElementById('ageText').textContent = `Tengo ${edad} años y vivo en Badalona con M, mi persona favorita, y mis dos hijos D y E.`;
+    document.getElementById('message').textContent = mensaje;
+  </script>
+</body>
+</html>
+
